@@ -1,0 +1,2072 @@
+{
+        {
+            "id": 130,
+            "added_by": "admin",
+            "user_id": 1,
+            "name": "Vibrant Red Floral Print Top",
+            "slug": "red-floral-pattern-shirt",
+            "category_ids": [
+                {
+                    "id": "1",
+                    "position": 1
+                },
+                {
+                    "id": "22",
+                    "position": 2
+                }
+            ],
+            "brand_id": 1,
+            "stylecode": "DLESHS13MA",
+            "unit": "pc",
+            "min_qty": 1,
+            "refundable": 1,
+            "images": [
+                "2023-05-09-645a5838f1ed4.png",
+                "2023-05-09-645a5838f2562.png",
+                "2023-05-09-645a5838f2883.png",
+                "2023-05-09-645a5838f2b6c.png",
+                "2023-05-09-645a5838f2e77.png",
+                "2023-05-09-645a5838f3173.png",
+                "2023-05-09-645a5838f345e.png"
+            ],
+            "thumbnail": "2023-05-10-645b6cca85218.png",
+            "featured": null,
+            "flash_deal": null,
+            "video_provider": "youtube",
+            "video_url": null,
+            "colors": [
+                {
+                    "name": "Red",
+                    "code": "#BA0001"
+                }
+            ],
+            "variant_product": 0,
+            "attributes": [
+                2
+            ],
+            "choice_options": [
+                {
+                    "name": "choice_2",
+                    "title": "Size",
+                    "options": [
+                        "S",
+                        "                                                M",
+                        "                                                L",
+                        "                                                XL",
+                        "                                                XXL"
+                    ]
+                }
+            ],
+            "variation": [
+                {
+                    "type": "Red-S",
+                    "price": 3999,
+                    "sku": "SS23DLESHS13MAS",
+                    "qty": 19,
+                    "after_discount_price": 3919.02
+                },
+                {
+                    "type": "Red-M",
+                    "price": 3999,
+                    "sku": "SS23DLESHS13MAM",
+                    "qty": 21,
+                    "after_discount_price": 3919.02
+                },
+                {
+                    "type": "Red-L",
+                    "price": 3999,
+                    "sku": "SS23DLESHS13MAL",
+                    "qty": 18,
+                    "after_discount_price": 3919.02
+                },
+                {
+                    "type": "Red-XL",
+                    "price": 3999,
+                    "sku": "SS23DLESHS13MAXL",
+                    "qty": 20,
+                    "after_discount_price": 3919.02
+                },
+                {
+                    "type": "Red-XXL",
+                    "price": 3999,
+                    "sku": "SS23DLESHS13MAXXL",
+                    "qty": 20,
+                    "after_discount_price": 3919.02
+                }
+            ],
+            "published": 0,
+            "unit_price": 3999,
+            "purchase_price": 1,
+            "tax": 0,
+            "tax_type": "percent",
+            "discount": 71,
+            "discount_type": "percent",
+            "after_discount_price": 1159.71,
+            "current_stock": 98,
+            "minimum_order_qty": 1,
+            "details": "<p><strong>Product Description</strong></p>\r\n\r\n<ul>\r\n\t<li>Introducing the elegant long sleeve tunics for women by dresoul - our red-maroon viscose with foil print light up down pattern tunic tops! Crafted with the finest quality viscose fabric, this exquisite piece boasts a breathtaking light up down pattern that exudes an aura of sophistication and poise.</li>\r\n\t<li>The captivating light up down pattern, complemented by the dazzling foil print, creates a mesmerizing visual spectacle that is both awe-inspiring and alluring.</li>\r\n\t<li>The exquisite gather on waist and collar accentuates your feminine curves, while the impeccable tailoring ensures a comfortable and flattering fit.</li>\r\n\t<li>Whether you&#39;re attending a lavish gala or a sophisticated soir&eacute;e, this shirt/tunic exudes a regal aura that is simply unparalleled.</li>\r\n</ul>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+            "free_shipping": 0,
+            "attachment": null,
+            "created_at": "2023-05-09T14:27:04.000000Z",
+            "updated_at": "2023-05-30T06:38:35.000000Z",
+            "status": 1,
+            "featured_status": 1,
+            "home_status": 1,
+            "meta_title": "Buy Red Floral Print Top for Women Online in India",
+            "meta_description": "Buy Red Floral Print Top for Women online at best price. Our Red indo western tunics Perfect for adding a touch of elegance to your wardrobe. Get Free Shipping & Easy Return.",
+            "meta_keyword": "Red Floral Print Top, Top for Women, Floral Print Top",
+            "meta_robot": null,
+            "meta_image": "2023-05-17-6464b2802547f.png",
+            "request_status": 1,
+            "denied_note": null,
+            "shipping_cost": 0,
+            "multiply_qty": 0,
+            "temp_shipping_cost": null,
+            "is_shipping_cost_updated": null,
+            "code": "103154",
+            "price_range": "1000-2000",
+            "chart_size": "[{\"label\":\"S\",\"tofitbust\":\"36\",\"tofitwaist\":\"32\",\"frontlength\":\"27\",\"tofithip\":null},{\"label\":\"M\",\"tofitbust\":\"38\",\"tofitwaist\":\"34\",\"frontlength\":\"27\",\"tofithip\":null},{\"label\":\"L\",\"tofitbust\":\"40\",\"tofitwaist\":\"36\",\"frontlength\":\"27\",\"tofithip\":null},{\"label\":\"XL\",\"tofitbust\":\"42\",\"tofitwaist\":\"38\",\"frontlength\":\"27\",\"tofithip\":null},{\"label\":\"XXL\",\"tofitbust\":\"44\",\"tofitwaist\":\"40\",\"frontlength\":\"27\",\"tofithip\":null}]",
+            "specification": "[{\"label\":\"Fabric\",\"value\":\"Viscose\"},{\"label\":\"Care Instructions\",\"value\":\"Dry clean\"},{\"label\":\"Color\",\"value\":\"Red\"},{\"label\":\"Pattern\",\"value\":\"Indian\"},{\"label\":\"Neckline\",\"value\":\"Collar\"},{\"label\":\"Sleeve Length\",\"value\":\"Full-length\"},{\"label\":\"Length\",\"value\":\"Medium\"}]",
+            "length": "12",
+            "breadth": "10",
+            "height": "2",
+            "weight": "0.2",
+            "reviews_count": 0,
+            "rating": [],
+            "translations": [],
+            "reviews": []
+        },
+        {
+            "id": 129,
+            "added_by": "admin",
+            "user_id": 1,
+            "name": "Royal Blue Floral Printed Top",
+            "slug": "royal-blue-leaf-printed-top",
+            "category_ids": [
+                {
+                    "id": "1",
+                    "position": 1
+                },
+                {
+                    "id": "22",
+                    "position": 2
+                }
+            ],
+            "brand_id": 1,
+            "stylecode": "DLESHS13NA",
+            "unit": "pc",
+            "min_qty": 1,
+            "refundable": 1,
+            "images": [
+                "2023-05-09-645a56a71eb44.png",
+                "2023-05-09-645a56a71f3b5.png",
+                "2023-05-09-645a56a71f81a.png",
+                "2023-05-09-645a56a71fcb3.png",
+                "2023-05-09-645a56a72017f.png",
+                "2023-05-09-645a56a720605.png"
+            ],
+            "thumbnail": "2023-05-10-645b675a460ff.png",
+            "featured": null,
+            "flash_deal": null,
+            "video_provider": "youtube",
+            "video_url": null,
+            "colors": [
+                {
+                    "name": "Blue",
+                    "code": "#0000FF"
+                }
+            ],
+            "variant_product": 0,
+            "attributes": [
+                2
+            ],
+            "choice_options": [
+                {
+                    "name": "choice_2",
+                    "title": "Size",
+                    "options": [
+                        "S",
+                        "                    M",
+                        "                    L",
+                        "                    XL",
+                        "                    XXL"
+                    ]
+                }
+            ],
+            "variation": [
+                {
+                    "type": "Blue-S",
+                    "price": 3999,
+                    "sku": "SS23DLESHS13NAS",
+                    "qty": 20,
+                    "after_discount_price": 3919.02
+                },
+                {
+                    "type": "Blue-M",
+                    "price": 3999,
+                    "sku": "SS23DLESHS13NAM",
+                    "qty": 21,
+                    "after_discount_price": 3919.02
+                },
+                {
+                    "type": "Blue-L",
+                    "price": 3999,
+                    "sku": "SS23DLESHS13NAL",
+                    "qty": 20,
+                    "after_discount_price": 3919.02
+                },
+                {
+                    "type": "Blue-XL",
+                    "price": 3999,
+                    "sku": "SS23DLESHS13NAXL",
+                    "qty": 17,
+                    "after_discount_price": 3919.02
+                },
+                {
+                    "type": "Blue-XXL",
+                    "price": 3999,
+                    "sku": "SS23DLESHS13NAXXL",
+                    "qty": 22,
+                    "after_discount_price": 3919.02
+                }
+            ],
+            "published": 0,
+            "unit_price": 3999,
+            "purchase_price": 1,
+            "tax": 0,
+            "tax_type": "percent",
+            "discount": 75,
+            "discount_type": "percent",
+            "after_discount_price": 999.75,
+            "current_stock": 100,
+            "minimum_order_qty": 1,
+            "details": "<p><strong>Product Description</strong></p>\r\n\r\n<ul>\r\n\t<li>Add a touch of glamour and shine to your wardrobe with this stunning short top, crafted from high-quality viscose fabric with a foil print that catches the light beautifully.</li>\r\n\t<li>The light up down pattern of this top provides a unique and eye-catching detail, perfect for standing out in any crowd.</li>\r\n\t<li>With gathers on the waist and a collar design, this top provides a flattering and comfortable fit that&#39;s both stylish and practical.</li>\r\n\t<li>The beautiful blue color of this top is both versatile and sophisticated, making it an excellent choice for both formal and casual occasions. Dress it up with statement jewelry or pair it with jeans for a more laid-back look - this top is perfect for any occasion.</li>\r\n</ul>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+            "free_shipping": 0,
+            "attachment": null,
+            "created_at": "2023-05-09T14:20:23.000000Z",
+            "updated_at": "2023-05-30T06:39:12.000000Z",
+            "status": 1,
+            "featured_status": 1,
+            "home_status": 1,
+            "meta_title": null,
+            "meta_description": null,
+            "meta_keyword": null,
+            "meta_robot": null,
+            "meta_image": "2023-05-17-6464b38550e08.png",
+            "request_status": 1,
+            "denied_note": null,
+            "shipping_cost": 0,
+            "multiply_qty": 0,
+            "temp_shipping_cost": null,
+            "is_shipping_cost_updated": null,
+            "code": "127994",
+            "price_range": "1000-2000",
+            "chart_size": "[{\"label\":\"S\",\"tofitbust\":\"36\",\"tofitwaist\":\"32\",\"frontlength\":\"27\",\"tofithip\":null},{\"label\":\"M\",\"tofitbust\":\"38\",\"tofitwaist\":\"34\",\"frontlength\":\"27\",\"tofithip\":null},{\"label\":\"L\",\"tofitbust\":\"40\",\"tofitwaist\":\"36\",\"frontlength\":\"27\",\"tofithip\":null},{\"label\":\"XL\",\"tofitbust\":\"42\",\"tofitwaist\":\"38\",\"frontlength\":\"27\",\"tofithip\":null},{\"label\":\"XXL\",\"tofitbust\":\"44\",\"tofitwaist\":\"40\",\"frontlength\":\"27\",\"tofithip\":null}]",
+            "specification": "[{\"label\":\"Fabric\",\"value\":\"Viscose\"},{\"label\":\"Care Instructions\",\"value\":\"Dry clean\"},{\"label\":\"Color\",\"value\":\"Blue\"},{\"label\":\"Pattern\",\"value\":\"Indian\"},{\"label\":\"Neckline\",\"value\":\"Collar\"},{\"label\":\"Sleeve Length\",\"value\":\"Full-length\"},{\"label\":\"Length\",\"value\":\"Medium\"}]",
+            "length": "12",
+            "breadth": "10",
+            "height": "2",
+            "weight": "0.2",
+            "reviews_count": 0,
+            "rating": [],
+            "translations": [],
+            "reviews": []
+        },
+        {
+            "id": 128,
+            "added_by": "admin",
+            "user_id": 1,
+            "name": "Yellow Floral Peplum Top",
+            "slug": "yellow-floral-peplum-top",
+            "category_ids": [
+                {
+                    "id": "1",
+                    "position": 1
+                },
+                {
+                    "id": "22",
+                    "position": 2
+                }
+            ],
+            "brand_id": 1,
+            "stylecode": "DLESHR9CR",
+            "unit": "pc",
+            "min_qty": 1,
+            "refundable": 1,
+            "images": [
+                "2023-05-09-645a54dc25543.png",
+                "2023-05-09-645a54dc25d36.png",
+                "2023-05-09-645a54dc26103.png",
+                "2023-05-09-645a54dc26437.png",
+                "2023-05-09-645a54dc26779.png",
+                "2023-05-09-645a54dc26aaa.png"
+            ],
+            "thumbnail": "2023-05-10-645b6d4d06db9.png",
+            "featured": null,
+            "flash_deal": null,
+            "video_provider": "youtube",
+            "video_url": null,
+            "colors": [
+                {
+                    "name": "Yellow",
+                    "code": "#FFE800"
+                }
+            ],
+            "variant_product": 0,
+            "attributes": [
+                2
+            ],
+            "choice_options": [
+                {
+                    "name": "choice_2",
+                    "title": "Size",
+                    "options": [
+                        "S",
+                        "                    M",
+                        "                    L",
+                        "                    XL",
+                        "                    XXL"
+                    ]
+                }
+            ],
+            "variation": [
+                {
+                    "type": "Yellow-S",
+                    "price": 2599,
+                    "sku": "SS23DLESHR9CRS",
+                    "qty": 17,
+                    "after_discount_price": 2547.02
+                },
+                {
+                    "type": "Yellow-M",
+                    "price": 2599,
+                    "sku": "SS23DLESHR9CRM",
+                    "qty": 35,
+                    "after_discount_price": 2547.02
+                },
+                {
+                    "type": "Yellow-L",
+                    "price": 2599,
+                    "sku": "SS23DLESHR9CRL",
+                    "qty": 36,
+                    "after_discount_price": 2547.02
+                },
+                {
+                    "type": "Yellow-XL",
+                    "price": 2599,
+                    "sku": "SS23DLESHR9CRXL",
+                    "qty": 37,
+                    "after_discount_price": 2547.02
+                },
+                {
+                    "type": "Yellow-XXL",
+                    "price": 2599,
+                    "sku": "SS23DLESHR9CRXXL",
+                    "qty": 18,
+                    "after_discount_price": 2547.02
+                }
+            ],
+            "published": 0,
+            "unit_price": 2599,
+            "purchase_price": 1,
+            "tax": 0,
+            "tax_type": "percent",
+            "discount": 64,
+            "discount_type": "percent",
+            "after_discount_price": 935.64,
+            "current_stock": 143,
+            "minimum_order_qty": 1,
+            "details": "<p><strong>Product Description</strong></p>\r\n\r\n<ul>\r\n\t<li>Our stylish and comfortable cotton short top is perfect for elevating your casual wardrobe.</li>\r\n\t<li>The top features a trendy Yellow leaf print that adds a touch of elegance to your look.</li>\r\n\t<li>The 3/4 sleeves and chic V-neckline make it both feminine and fashionable.</li>\r\n\t<li>The gathers on the fabric create a relaxed and comfortable fit, perfect for everyday wear. Made from high-quality cotton, this top is both soft and breathable, ensuring you look and feel your best all day long.</li>\r\n</ul>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+            "free_shipping": 0,
+            "attachment": null,
+            "created_at": "2023-05-09T14:12:44.000000Z",
+            "updated_at": "2023-05-30T06:39:45.000000Z",
+            "status": 1,
+            "featured_status": 1,
+            "home_status": 1,
+            "meta_title": null,
+            "meta_description": null,
+            "meta_keyword": null,
+            "meta_robot": null,
+            "meta_image": "2023-05-17-6464b50c71803.png",
+            "request_status": 1,
+            "denied_note": null,
+            "shipping_cost": 0,
+            "multiply_qty": 0,
+            "temp_shipping_cost": null,
+            "is_shipping_cost_updated": null,
+            "code": "117190",
+            "price_range": "1000-2000",
+            "chart_size": "[{\"label\":\"S\",\"tofitbust\":\"36\",\"tofitwaist\":\"32\",\"frontlength\":\"26\",\"tofithip\":null},{\"label\":\"M\",\"tofitbust\":\"38\",\"tofitwaist\":\"34\",\"frontlength\":\"26\",\"tofithip\":null},{\"label\":\"L\",\"tofitbust\":\"40\",\"tofitwaist\":\"36\",\"frontlength\":\"26\",\"tofithip\":null},{\"label\":\"XL\",\"tofitbust\":\"42\",\"tofitwaist\":\"38\",\"frontlength\":\"26\",\"tofithip\":null},{\"label\":\"XXL\",\"tofitbust\":\"44\",\"tofitwaist\":\"40\",\"frontlength\":\"26\",\"tofithip\":null}]",
+            "specification": "[{\"label\":\"Fabric\",\"value\":\"Cotton\"},{\"label\":\"Care Instructions\",\"value\":\"Dry clean\"},{\"label\":\"Color\",\"value\":\"Yellow\"},{\"label\":\"Pattern\",\"value\":\"Leaf\"},{\"label\":\"Neckline\",\"value\":\"V\"},{\"label\":\"Sleeve Length\",\"value\":\"Elbow length\"},{\"label\":\"Length\",\"value\":\"Short\"}]",
+            "length": "12",
+            "breadth": "10",
+            "height": "2",
+            "weight": "0.2",
+            "reviews_count": 0,
+            "rating": [],
+            "translations": [],
+            "reviews": []
+        },
+        {
+            "id": 127,
+            "added_by": "admin",
+            "user_id": 1,
+            "name": "White and Red Floral Peplum Top",
+            "slug": "white-and-red-floral-peplum-top",
+            "category_ids": [
+                {
+                    "id": "1",
+                    "position": 1
+                },
+                {
+                    "id": "22",
+                    "position": 2
+                }
+            ],
+            "brand_id": 1,
+            "stylecode": "DLESHR9RE",
+            "unit": "pc",
+            "min_qty": 1,
+            "refundable": 1,
+            "images": [
+                "2023-05-09-645a50fc7b6d7.png",
+                "2023-05-09-645a50fc7bcbc.png",
+                "2023-05-09-645a50fc7c0dc.png",
+                "2023-05-09-645a50fc7c44b.png",
+                "2023-05-09-645a50fc7c777.png",
+                "2023-05-09-645a50fc7ca97.png"
+            ],
+            "thumbnail": "2023-05-10-645b67e5bf21e.png",
+            "featured": null,
+            "flash_deal": null,
+            "video_provider": "youtube",
+            "video_url": null,
+            "colors": [
+                {
+                    "name": "Red",
+                    "code": "#BA0001"
+                }
+            ],
+            "variant_product": 0,
+            "attributes": [
+                2
+            ],
+            "choice_options": [
+                {
+                    "name": "choice_2",
+                    "title": "Size",
+                    "options": [
+                        "S",
+                        "                M",
+                        "                L",
+                        "                XL",
+                        "                XXL"
+                    ]
+                }
+            ],
+            "variation": [
+                {
+                    "type": "Red-S",
+                    "price": 2599,
+                    "sku": "SS23DLESHR9RES",
+                    "qty": 17,
+                    "after_discount_price": 2547.02
+                },
+                {
+                    "type": "Red-M",
+                    "price": 2599,
+                    "sku": "SS23DLESHR9REM",
+                    "qty": 35,
+                    "after_discount_price": 2547.02
+                },
+                {
+                    "type": "Red-L",
+                    "price": 2599,
+                    "sku": "SS23DLESHR9REL",
+                    "qty": 34,
+                    "after_discount_price": 2547.02
+                },
+                {
+                    "type": "Red-XL",
+                    "price": 2599,
+                    "sku": "SS23DLESHR9REXL",
+                    "qty": 35,
+                    "after_discount_price": 2547.02
+                },
+                {
+                    "type": "Red-XXL",
+                    "price": 2599,
+                    "sku": "SS23DLESHR9REXXL",
+                    "qty": 16,
+                    "after_discount_price": 2547.02
+                }
+            ],
+            "published": 0,
+            "unit_price": 2599,
+            "purchase_price": 1,
+            "tax": 0,
+            "tax_type": "percent",
+            "discount": 70,
+            "discount_type": "percent",
+            "after_discount_price": 779.7,
+            "current_stock": 137,
+            "minimum_order_qty": 1,
+            "details": "<p><strong>Product Description</strong></p>\r\n\r\n<ul>\r\n\t<li>Our stylish and comfortable cotton short top is perfect for elevating your casual wardrobe.</li>\r\n\t<li>The top features a trendy red leaf print that adds a touch of elegance to your look.</li>\r\n\t<li>The 3/4 sleeves and chic V-neckline make it both feminine and fashionable.</li>\r\n\t<li>The gathers on the fabric create a relaxed and comfortable fit, perfect for everyday wear. Made from high-quality cotton, this top is both soft and breathable, ensuring you look and feel your best all day long.</li>\r\n</ul>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+            "free_shipping": 0,
+            "attachment": null,
+            "created_at": "2023-05-09T13:56:12.000000Z",
+            "updated_at": "2023-05-30T06:40:20.000000Z",
+            "status": 1,
+            "featured_status": 1,
+            "home_status": 1,
+            "meta_title": null,
+            "meta_description": null,
+            "meta_keyword": null,
+            "meta_robot": null,
+            "meta_image": "2023-05-17-6464b562856f4.png",
+            "request_status": 1,
+            "denied_note": null,
+            "shipping_cost": 0,
+            "multiply_qty": 0,
+            "temp_shipping_cost": null,
+            "is_shipping_cost_updated": null,
+            "code": "103523",
+            "price_range": "1000-2000",
+            "chart_size": "[{\"label\":\"S\",\"tofitbust\":\"36\",\"tofitwaist\":\"32\",\"frontlength\":\"25\",\"tofithip\":null},{\"label\":\"M\",\"tofitbust\":\"38\",\"tofitwaist\":\"34\",\"frontlength\":\"25\",\"tofithip\":null},{\"label\":\"L\",\"tofitbust\":\"40\",\"tofitwaist\":\"36\",\"frontlength\":\"25\",\"tofithip\":null},{\"label\":\"XL\",\"tofitbust\":\"42\",\"tofitwaist\":\"38\",\"frontlength\":\"25\",\"tofithip\":null},{\"label\":\"XXL\",\"tofitbust\":\"44\",\"tofitwaist\":\"40\",\"frontlength\":\"25\",\"tofithip\":null}]",
+            "specification": "[{\"label\":\"Fabric\",\"value\":\"Cotton\"},{\"label\":\"Care Instructions\",\"value\":\"Dry clean\"},{\"label\":\"Color\",\"value\":\"Red\"},{\"label\":\"Pattern\",\"value\":\"Floral\"},{\"label\":\"Neckline\",\"value\":\"V\"},{\"label\":\"Sleeve Length\",\"value\":\"Elbow length\"},{\"label\":\"Length\",\"value\":\"Short\"}]",
+            "length": "12",
+            "breadth": "10",
+            "height": "2",
+            "weight": "0.2",
+            "reviews_count": 0,
+            "rating": [],
+            "translations": [],
+            "reviews": []
+        },
+        {
+            "id": 126,
+            "added_by": "admin",
+            "user_id": 1,
+            "name": "Blue Floral Peplum Top",
+            "slug": "blue-floral-peplum-top",
+            "category_ids": [
+                {
+                    "id": "1",
+                    "position": 1
+                },
+                {
+                    "id": "22",
+                    "position": 2
+                }
+            ],
+            "brand_id": 1,
+            "stylecode": "DLESHR9RA",
+            "unit": "pc",
+            "min_qty": 1,
+            "refundable": 1,
+            "images": [
+                "2023-05-09-645a4f00041c5.png",
+                "2023-05-09-645a4f0004960.png",
+                "2023-05-11-645c9fa05a44d.png",
+                "2023-05-11-645c9fa05ac91.png",
+                "2023-05-11-645c9fa05b18d.png"
+            ],
+            "thumbnail": "2023-05-10-645b66cf91c54.png",
+            "featured": null,
+            "flash_deal": null,
+            "video_provider": "youtube",
+            "video_url": null,
+            "colors": [
+                {
+                    "name": "Blue",
+                    "code": "#0000FF"
+                }
+            ],
+            "variant_product": 0,
+            "attributes": [
+                2
+            ],
+            "choice_options": [
+                {
+                    "name": "choice_2",
+                    "title": "Size",
+                    "options": [
+                        "S",
+                        "                  M",
+                        "                  L",
+                        "                  XL",
+                        "                  XXL"
+                    ]
+                }
+            ],
+            "variation": [
+                {
+                    "type": "Blue-S",
+                    "price": 2599,
+                    "sku": "SS23DLESHR9RAS",
+                    "qty": 18,
+                    "after_discount_price": 2547.02
+                },
+                {
+                    "type": "Blue-M",
+                    "price": 2599,
+                    "sku": "SS23DLESHR9RAM",
+                    "qty": 36,
+                    "after_discount_price": 2547.02
+                },
+                {
+                    "type": "Blue-L",
+                    "price": 2599,
+                    "sku": "SS23DLESHR9RAL",
+                    "qty": 30,
+                    "after_discount_price": 2547.02
+                },
+                {
+                    "type": "Blue-XL",
+                    "price": 2599,
+                    "sku": "SS23DLESHR9RAXL",
+                    "qty": 39,
+                    "after_discount_price": 2547.02
+                },
+                {
+                    "type": "Blue-XXL",
+                    "price": 2599,
+                    "sku": "SS23DLESHR9RAXXL",
+                    "qty": 19,
+                    "after_discount_price": 2547.02
+                }
+            ],
+            "published": 0,
+            "unit_price": 2599,
+            "purchase_price": 1,
+            "tax": 0,
+            "tax_type": "percent",
+            "discount": 70,
+            "discount_type": "percent",
+            "after_discount_price": 779.7,
+            "current_stock": 142,
+            "minimum_order_qty": 1,
+            "details": "<p><strong>Product Description</strong></p>\r\n\r\n<ul>\r\n\t<li>Our stylish and comfortable cotton short top is perfect for elevating your casual wardrobe.</li>\r\n\t<li>The top features a trendy blue leaf print that adds a touch of elegance to your look.</li>\r\n\t<li>The 3/4 sleeves and chic V-neckline make it both feminine and fashionable.</li>\r\n\t<li>The gathers on the fabric create a relaxed and comfortable fit, perfect for everyday wear. Made from high-quality cotton, this top is both soft and breathable, ensuring you look and feel your best all day long.</li>\r\n</ul>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+            "free_shipping": 0,
+            "attachment": null,
+            "created_at": "2023-05-09T13:47:44.000000Z",
+            "updated_at": "2023-05-30T06:40:48.000000Z",
+            "status": 1,
+            "featured_status": 1,
+            "home_status": 1,
+            "meta_title": null,
+            "meta_description": null,
+            "meta_keyword": null,
+            "meta_robot": null,
+            "meta_image": "2023-05-17-6464b585079eb.png",
+            "request_status": 1,
+            "denied_note": null,
+            "shipping_cost": 0,
+            "multiply_qty": 0,
+            "temp_shipping_cost": null,
+            "is_shipping_cost_updated": null,
+            "code": "101837",
+            "price_range": "1000-2000",
+            "chart_size": "[{\"label\":\"S\",\"tofitbust\":\"36\",\"tofitwaist\":\"32\",\"frontlength\":\"26\",\"tofithip\":null},{\"label\":\"M\",\"tofitbust\":\"38\",\"tofitwaist\":\"34\",\"frontlength\":\"26\",\"tofithip\":null},{\"label\":\"L\",\"tofitbust\":\"40\",\"tofitwaist\":\"36\",\"frontlength\":\"26\",\"tofithip\":null},{\"label\":\"XL\",\"tofitbust\":\"42\",\"tofitwaist\":\"38\",\"frontlength\":\"26\",\"tofithip\":null},{\"label\":\"XXL\",\"tofitbust\":\"44\",\"tofitwaist\":\"40\",\"frontlength\":\"26\",\"tofithip\":null}]",
+            "specification": "[{\"label\":\"Fabric\",\"value\":\"cotton\"},{\"label\":\"Care Instructions\",\"value\":\"Hand wash separately\"},{\"label\":\"Color\",\"value\":\"Blue\"},{\"label\":\"Pattern\",\"value\":\"Leaf\"},{\"label\":\"Neckline\",\"value\":\"V\"},{\"label\":\"Sleeve Length\",\"value\":\"Elbow length\"},{\"label\":\"Length\",\"value\":\"Short\"}]",
+            "length": "12",
+            "breadth": "10",
+            "height": "2",
+            "weight": "0.2",
+            "reviews_count": 0,
+            "rating": [],
+            "translations": [],
+            "reviews": []
+        },
+        {
+            "id": 125,
+            "added_by": "admin",
+            "user_id": 1,
+            "name": "Light Green Noodle Strap Top",
+            "slug": "light-green-noodle-strap-top",
+            "category_ids": [
+                {
+                    "id": "1",
+                    "position": 1
+                },
+                {
+                    "id": "22",
+                    "position": 2
+                }
+            ],
+            "brand_id": 1,
+            "stylecode": "DLESHR8OL",
+            "unit": "pc",
+            "min_qty": 1,
+            "refundable": 1,
+            "images": [
+                "2023-05-09-645a4be9025f4.png",
+                "2023-05-09-645a4be902b6c.png",
+                "2023-05-09-645a4be902e6b.png",
+                "2023-05-09-645a4be903130.png",
+                "2023-05-09-645a4be903431.png",
+                "2023-05-09-645a4be903700.png",
+                "2023-05-09-645a4be9039cb.png"
+            ],
+            "thumbnail": "2023-05-10-645b6d94525ac.png",
+            "featured": null,
+            "flash_deal": null,
+            "video_provider": "youtube",
+            "video_url": null,
+            "colors": [
+                {
+                    "name": "Green",
+                    "code": "#097a27"
+                }
+            ],
+            "variant_product": 0,
+            "attributes": [
+                2
+            ],
+            "choice_options": [
+                {
+                    "name": "choice_2",
+                    "title": "Size",
+                    "options": [
+                        "XS",
+                        "                S",
+                        "                M",
+                        "                L"
+                    ]
+                }
+            ],
+            "variation": [
+                {
+                    "type": "Green-XS",
+                    "price": 2499,
+                    "sku": "SS23DLESHR8OLXS",
+                    "qty": 24,
+                    "after_discount_price": 2449.02
+                },
+                {
+                    "type": "Green-S",
+                    "price": 2499,
+                    "sku": "SS23DLESHR8OLS",
+                    "qty": 34,
+                    "after_discount_price": 2449.02
+                },
+                {
+                    "type": "Green-M",
+                    "price": 2499,
+                    "sku": "SS23DLESHR8OLM",
+                    "qty": 42,
+                    "after_discount_price": 2449.02
+                },
+                {
+                    "type": "Green-L",
+                    "price": 2499,
+                    "sku": "SS23DLESHR8OLL",
+                    "qty": 25,
+                    "after_discount_price": 2449.02
+                }
+            ],
+            "published": 0,
+            "unit_price": 2499,
+            "purchase_price": 1,
+            "tax": 0,
+            "tax_type": "percent",
+            "discount": 63,
+            "discount_type": "percent",
+            "after_discount_price": 924.63,
+            "current_stock": 125,
+            "minimum_order_qty": 1,
+            "details": "<p><strong>Product Description</strong></p>\r\n\r\n<ul>\r\n\t<li>Our cotton peplum top is the perfect addition to your summer wardrobe, offering both style and comfort in one elegant design.</li>\r\n\t<li>The top features a flattering V-neckline and trendy spaghetti straps, adding a touch of glamour to your overall look.</li>\r\n\t<li>The gathers on the fabric create a relaxed and comfortable fit, perfect for keeping you cool on hot summer days.</li>\r\n\t<li>The peplum style flares out at the waist, creating a feminine and flattering silhouette that accentuates your curves. Made from high-quality cotton, this top is soft, breathable, and easy to care for, ensuring it will be a go-to piece in your wardrobe for seasons to come.</li>\r\n</ul>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+            "free_shipping": 0,
+            "attachment": null,
+            "created_at": "2023-05-09T13:34:33.000000Z",
+            "updated_at": "2023-05-30T06:44:28.000000Z",
+            "status": 1,
+            "featured_status": 1,
+            "home_status": 1,
+            "meta_title": null,
+            "meta_description": null,
+            "meta_keyword": null,
+            "meta_robot": null,
+            "meta_image": "2023-05-17-6464b5a065118.png",
+            "request_status": 1,
+            "denied_note": null,
+            "shipping_cost": 0,
+            "multiply_qty": 0,
+            "temp_shipping_cost": null,
+            "is_shipping_cost_updated": null,
+            "code": "179734",
+            "price_range": "1000-2000",
+            "chart_size": "[{\"label\":\"XS\",\"tofitbust\":\"34\",\"tofitwaist\":\"30\",\"frontlength\":\"25\",\"tofithip\":null},{\"label\":\"S\",\"tofitbust\":\"36\",\"tofitwaist\":\"32\",\"frontlength\":\"25\",\"tofithip\":null},{\"label\":\"M\",\"tofitbust\":\"38\",\"tofitwaist\":\"34\",\"frontlength\":\"25\",\"tofithip\":null},{\"label\":\"L\",\"tofitbust\":\"40\",\"tofitwaist\":\"36\",\"frontlength\":\"25\",\"tofithip\":null}]",
+            "specification": "[{\"label\":\"Fabric\",\"value\":\"Cotton\"},{\"label\":\"Care Instructions\",\"value\":\"Hand wash separately\"},{\"label\":\"Color\",\"value\":\"Green\"},{\"label\":\"Pattern\",\"value\":\"Abstract\"},{\"label\":\"Neckline\",\"value\":\"V\"},{\"label\":\"Sleeve Length\",\"value\":\"Sleeveless\"},{\"label\":\"Length\",\"value\":\"Short\"}]",
+            "length": "12",
+            "breadth": "10",
+            "height": "2",
+            "weight": "0.2",
+            "reviews_count": 0,
+            "rating": [],
+            "translations": [],
+            "reviews": []
+        },
+        {
+            "id": 124,
+            "added_by": "admin",
+            "user_id": 1,
+            "name": "Blue Rayon Top & Pant",
+            "slug": "blue-rayon-top-pant",
+            "category_ids": [
+                {
+                    "id": "4",
+                    "position": 1
+                },
+                {
+                    "id": "17",
+                    "position": 2
+                }
+            ],
+            "brand_id": 1,
+            "stylecode": "DLWDP18NA",
+            "unit": "pc",
+            "min_qty": 1,
+            "refundable": 1,
+            "images": [
+                "2023-05-09-645a3f86e8985.png",
+                "2023-05-09-645a3f86e90e4.png",
+                "2023-05-09-645a3f86e951d.png",
+                "2023-05-09-645a3f86e98b5.png",
+                "2023-05-09-645a3f86e9cb1.png",
+                "2023-05-09-645a3f86ea06c.png",
+                "2023-05-09-645a3f86ea40e.png",
+                "2023-05-09-645a3f86ea7e7.png"
+            ],
+            "thumbnail": "2023-05-10-645b670923081.png",
+            "featured": null,
+            "flash_deal": null,
+            "video_provider": "youtube",
+            "video_url": null,
+            "colors": [
+                {
+                    "name": "Blue",
+                    "code": "#0000FF"
+                }
+            ],
+            "variant_product": 0,
+            "attributes": [
+                2
+            ],
+            "choice_options": [
+                {
+                    "name": "choice_2",
+                    "title": "Size",
+                    "options": [
+                        "XS",
+                        "                    S",
+                        "                    M",
+                        "                    L",
+                        "                    XL"
+                    ]
+                }
+            ],
+            "variation": [
+                {
+                    "type": "Blue-XS",
+                    "price": 3799,
+                    "sku": "SS23DLWDP18NAXS",
+                    "qty": 10,
+                    "after_discount_price": 3723.02
+                },
+                {
+                    "type": "Blue-S",
+                    "price": 3799,
+                    "sku": "SS23DLWDP18NAS",
+                    "qty": 7,
+                    "after_discount_price": 3723.02
+                },
+                {
+                    "type": "Blue-M",
+                    "price": 3799,
+                    "sku": "SS23DLWDP18NAM",
+                    "qty": 8,
+                    "after_discount_price": 3723.02
+                },
+                {
+                    "type": "Blue-L",
+                    "price": 3799,
+                    "sku": "SS23DLWDP18NAL",
+                    "qty": 9,
+                    "after_discount_price": 3723.02
+                },
+                {
+                    "type": "Blue-XL",
+                    "price": 3799,
+                    "sku": "SS23DLWDP18NAXL",
+                    "qty": 6,
+                    "after_discount_price": 3723.02
+                }
+            ],
+            "published": 0,
+            "unit_price": 3799,
+            "purchase_price": 1,
+            "tax": 0,
+            "tax_type": "percent",
+            "discount": 62,
+            "discount_type": "percent",
+            "after_discount_price": 1443.62,
+            "current_stock": 40,
+            "minimum_order_qty": 1,
+            "details": "<p><strong>Product Description</strong></p>\r\n\r\n<ul>\r\n\t<li>Elevate your style with our chic and trendy top and pant co-ord set, made from wrinkle-resistant rayon fabric.</li>\r\n\t<li>The set features a stylish halter neckline and sleeveless top in a unique abstract print, paired with comfortable and fashionable pants in a matching print.</li>\r\n\t<li>The Blue&nbsp;and black hue creates a sophisticated and modern look, perfect for any occasion.</li>\r\n\t<li>Dress it up or keep it casual, this set is versatile and stylish.</li>\r\n</ul>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+            "free_shipping": 0,
+            "attachment": null,
+            "created_at": "2023-05-09T12:41:42.000000Z",
+            "updated_at": "2023-05-30T06:44:59.000000Z",
+            "status": 1,
+            "featured_status": 1,
+            "home_status": 1,
+            "meta_title": null,
+            "meta_description": null,
+            "meta_keyword": null,
+            "meta_robot": null,
+            "meta_image": "2023-05-17-6464b5b9c8b2b.png",
+            "request_status": 1,
+            "denied_note": null,
+            "shipping_cost": 0,
+            "multiply_qty": 0,
+            "temp_shipping_cost": null,
+            "is_shipping_cost_updated": null,
+            "code": "150991",
+            "price_range": "1000-2000",
+            "chart_size": "[{\"label\":\"XS\",\"tofitbust\":\"34\",\"tofitwaist\":\"32\",\"frontlength\":\"42\",\"tofithip\":\"38\"},{\"label\":\"S\",\"tofitbust\":\"36\",\"tofitwaist\":\"34\",\"frontlength\":\"42\",\"tofithip\":\"40\"},{\"label\":\"M\",\"tofitbust\":\"38\",\"tofitwaist\":\"36\",\"frontlength\":\"42\",\"tofithip\":\"42\"},{\"label\":\"L\",\"tofitbust\":\"40\",\"tofitwaist\":\"38\",\"frontlength\":\"42\",\"tofithip\":\"44\"},{\"label\":\"XL\",\"tofitbust\":\"42\",\"tofitwaist\":\"40\",\"frontlength\":\"42\",\"tofithip\":\"46\"}]",
+            "specification": "[{\"label\":\"Fabric\",\"value\":\"Wrinkle Rayon\"},{\"label\":\"Care Instructions\",\"value\":\"Dry clean\"},{\"label\":\"Color\",\"value\":\"Blue\"},{\"label\":\"Pattern\",\"value\":\"Pattern\"},{\"label\":\"Neckline\",\"value\":\"High\"},{\"label\":\"Sleeve Length\",\"value\":\"Sleeveless\"}]",
+            "length": "12",
+            "breadth": "10",
+            "height": "2",
+            "weight": "0.2",
+            "reviews_count": 2,
+            "rating": [
+                {
+                    "average": "4.0000",
+                    "product_id": 124
+                }
+            ],
+            "translations": [],
+            "reviews": [
+                {
+                    "id": 6,
+                    "product_id": 124,
+                    "customer_id": 16,
+                    "comment": "Beautiful and smart dress.. If you wanna look smart and different to others just go for it.. I just love it..",
+                    "attachment": "[]",
+                    "rating": 5,
+                    "status": 1,
+                    "created_at": "2023-05-26T06:55:05.000000Z",
+                    "updated_at": "2023-05-25T20:13:18.000000Z"
+                },
+                {
+                    "id": 7,
+                    "product_id": 124,
+                    "customer_id": 19,
+                    "comment": "The quality and color of the dress is outstanding. The only drawback is the size. I ordered a small size but it was still loose for me so had to return it. Overall a quality product.",
+                    "attachment": "[]",
+                    "rating": 3,
+                    "status": 1,
+                    "created_at": "2023-05-26T06:55:05.000000Z",
+                    "updated_at": "2023-05-25T20:13:18.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 123,
+            "added_by": "admin",
+            "user_id": 1,
+            "name": "Green Floral Kurti",
+            "slug": "green-floral-kurti",
+            "category_ids": [
+                {
+                    "id": "1",
+                    "position": 1
+                },
+                {
+                    "id": "23",
+                    "position": 2
+                }
+            ],
+            "brand_id": 1,
+            "stylecode": "DLESHR5TU",
+            "unit": "pc",
+            "min_qty": 1,
+            "refundable": 1,
+            "images": [
+                "2023-05-09-645a3d1987bfc.png",
+                "2023-05-09-645a3d19881e2.png",
+                "2023-05-09-645a3d198852f.png",
+                "2023-05-09-645a3d198880b.png",
+                "2023-05-09-645a3d1988b11.png",
+                "2023-05-09-645a3d1988e21.png",
+                "2023-05-09-645a3d19890eb.png"
+            ],
+            "thumbnail": "2023-05-10-645b6e08822a0.png",
+            "featured": null,
+            "flash_deal": null,
+            "video_provider": "youtube",
+            "video_url": null,
+            "colors": [
+                {
+                    "name": "Green",
+                    "code": "#097a27"
+                }
+            ],
+            "variant_product": 0,
+            "attributes": [
+                2
+            ],
+            "choice_options": [
+                {
+                    "name": "choice_2",
+                    "title": "Size",
+                    "options": [
+                        "S",
+                        "                  M",
+                        "                  L",
+                        "                  XL",
+                        "                  XXL"
+                    ]
+                }
+            ],
+            "variation": [
+                {
+                    "type": "Green-S",
+                    "price": 2799,
+                    "sku": "SS23DLESHR5TUS",
+                    "qty": 15,
+                    "after_discount_price": 2743.02
+                },
+                {
+                    "type": "Green-M",
+                    "price": 2799,
+                    "sku": "SS23DLESHR5TUM",
+                    "qty": 33,
+                    "after_discount_price": 2743.02
+                },
+                {
+                    "type": "Green-L",
+                    "price": 2799,
+                    "sku": "SS23DLESHR5TUL",
+                    "qty": 33,
+                    "after_discount_price": 2743.02
+                },
+                {
+                    "type": "Green-XL",
+                    "price": 2799,
+                    "sku": "SS23DLESHR5TUXL",
+                    "qty": 34,
+                    "after_discount_price": 2743.02
+                },
+                {
+                    "type": "Green-XXL",
+                    "price": 2799,
+                    "sku": "SS23DLESHR5TUXXL",
+                    "qty": 17,
+                    "after_discount_price": 2743.02
+                }
+            ],
+            "published": 0,
+            "unit_price": 2799,
+            "purchase_price": 1,
+            "tax": 0,
+            "tax_type": "percent",
+            "discount": 66,
+            "discount_type": "percent",
+            "after_discount_price": 951.66,
+            "current_stock": 132,
+            "minimum_order_qty": 1,
+            "details": "<p><strong>Product Description</strong></p>\r\n\r\n<ul>\r\n\t<li>Experience the true essence of sophistication and style with our Blue Cotton Kurti with Floral Print, a stunning piece that blends traditional charm with contemporary flair.</li>\r\n\t<li>The rich green color and the delicate floral pattern make this kurti a work of art that is sure to turn heads.</li>\r\n\t<li>Made from high-quality cotton fabric, it feels soft and light against the skin, making it perfect for any season.</li>\r\n\t<li>Add a touch of elegance to your wardrobe with our Green Cotton Kurti with Floral Print, a true masterpiece.</li>\r\n</ul>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+            "free_shipping": 0,
+            "attachment": null,
+            "created_at": "2023-05-09T12:31:21.000000Z",
+            "updated_at": "2023-05-30T06:45:29.000000Z",
+            "status": 1,
+            "featured_status": 1,
+            "home_status": 1,
+            "meta_title": null,
+            "meta_description": null,
+            "meta_keyword": null,
+            "meta_robot": null,
+            "meta_image": "2023-05-17-6464b5f6747a4.png",
+            "request_status": 1,
+            "denied_note": null,
+            "shipping_cost": 0,
+            "multiply_qty": 0,
+            "temp_shipping_cost": null,
+            "is_shipping_cost_updated": null,
+            "code": "148897",
+            "price_range": "1000-2000",
+            "chart_size": "[{\"label\":\"S\",\"tofitbust\":\"36\",\"tofitwaist\":\"32\",\"frontlength\":\"27\",\"tofithip\":null},{\"label\":\"M\",\"tofitbust\":\"38\",\"tofitwaist\":\"34\",\"frontlength\":\"27\",\"tofithip\":null},{\"label\":\"L\",\"tofitbust\":\"40\",\"tofitwaist\":\"36\",\"frontlength\":\"27\",\"tofithip\":null},{\"label\":\"XL\",\"tofitbust\":\"42\",\"tofitwaist\":\"38\",\"frontlength\":\"27\",\"tofithip\":null},{\"label\":\"XXL\",\"tofitbust\":\"44\",\"tofitwaist\":\"40\",\"frontlength\":\"27\",\"tofithip\":null}]",
+            "specification": "[{\"label\":\"Fabric\",\"value\":\"Cotton\"},{\"label\":\"Care Instructions\",\"value\":\"Dry clean\"},{\"label\":\"Color\",\"value\":\"Green\"},{\"label\":\"Pattern\",\"value\":\"Floral\"},{\"label\":\"Neckline\",\"value\":\"V\"},{\"label\":\"Sleeve Length\",\"value\":\"3\\/4th\"},{\"label\":\"Length\",\"value\":\"Medium\"}]",
+            "length": "12",
+            "breadth": "10",
+            "height": "2",
+            "weight": "0.2",
+            "reviews_count": 0,
+            "rating": [],
+            "translations": [],
+            "reviews": []
+        },
+        {
+            "id": 122,
+            "added_by": "admin",
+            "user_id": 1,
+            "name": "Pristine Green Heritage Kurti",
+            "slug": "pristine-green-heritage-kurti",
+            "category_ids": [
+                {
+                    "id": "1",
+                    "position": 1
+                },
+                {
+                    "id": "23",
+                    "position": 2
+                }
+            ],
+            "brand_id": 1,
+            "stylecode": "DLESHR5CR",
+            "unit": "pc",
+            "min_qty": 1,
+            "refundable": 1,
+            "images": [
+                "2023-05-09-645a396f2bbb2.png",
+                "2023-05-09-645a396f2c202.png",
+                "2023-05-09-645a396f2c549.png",
+                "2023-05-09-645a396f2c86c.png",
+                "2023-05-09-645a396f2cc32.png",
+                "2023-05-09-645a396f2cfec.png",
+                "2023-05-09-645a396f2d342.png"
+            ],
+            "thumbnail": "2023-05-09-645a396f2d6e7.png",
+            "featured": null,
+            "flash_deal": null,
+            "video_provider": "youtube",
+            "video_url": null,
+            "colors": [
+                {
+                    "name": "Green",
+                    "code": "#097a27"
+                }
+            ],
+            "variant_product": 0,
+            "attributes": [
+                2
+            ],
+            "choice_options": [
+                {
+                    "name": "choice_2",
+                    "title": "Size",
+                    "options": [
+                        "S",
+                        "                  M",
+                        "                  L",
+                        "                  XL",
+                        "                  XXL"
+                    ]
+                }
+            ],
+            "variation": [
+                {
+                    "type": "Green-S",
+                    "price": 2799,
+                    "sku": "SS23DLESHR5CRS",
+                    "qty": 17,
+                    "after_discount_price": 2743.02
+                },
+                {
+                    "type": "Green-M",
+                    "price": 2799,
+                    "sku": "SS23DLESHR5CRM",
+                    "qty": 34,
+                    "after_discount_price": 2743.02
+                },
+                {
+                    "type": "Green-L",
+                    "price": 2799,
+                    "sku": "SS23DLESHR5CRL",
+                    "qty": 34,
+                    "after_discount_price": 2743.02
+                },
+                {
+                    "type": "Green-XL",
+                    "price": 2799,
+                    "sku": "SS23DLESHR5CRXL",
+                    "qty": 36,
+                    "after_discount_price": 2743.02
+                },
+                {
+                    "type": "Green-XXL",
+                    "price": 2799,
+                    "sku": "SS23DLESHR5CRXXL",
+                    "qty": 18,
+                    "after_discount_price": 2743.02
+                }
+            ],
+            "published": 0,
+            "unit_price": 2799,
+            "purchase_price": 1,
+            "tax": 0,
+            "tax_type": "percent",
+            "discount": 70,
+            "discount_type": "percent",
+            "after_discount_price": 839.7,
+            "current_stock": 139,
+            "minimum_order_qty": 1,
+            "details": "<p><strong>Product Description</strong></p>\r\n\r\n<ul>\r\n\t<li>Indulge in the magnificence of Jaipur&#39;s artisanal expertise with the Pista Green Table Print in Jaipur Cotton Kurti. This enchanting attire is an ode to the vibrant heritage of Jaipur&#39;s textiles, showcasing intricate patterns and designs that have been passed down for generations.</li>\r\n\t<li>The refreshing pista green hue adds a serene and tranquil aura to its exquisite silhouette, while the intricate table print adds a dash of flair and sophistication.</li>\r\n\t<li>For those who appreciate artisanal craftsmanship and refined style, the Pista Green Table Print in Jaipur Cotton Kurti is an absolute must-have in your wardrobe.</li>\r\n</ul>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+            "free_shipping": 0,
+            "attachment": null,
+            "created_at": "2023-05-09T12:15:43.000000Z",
+            "updated_at": "2023-05-30T06:45:59.000000Z",
+            "status": 1,
+            "featured_status": 1,
+            "home_status": 1,
+            "meta_title": null,
+            "meta_description": null,
+            "meta_keyword": null,
+            "meta_robot": null,
+            "meta_image": "2023-05-17-6464b60f5255d.png",
+            "request_status": 1,
+            "denied_note": null,
+            "shipping_cost": 0,
+            "multiply_qty": 0,
+            "temp_shipping_cost": null,
+            "is_shipping_cost_updated": null,
+            "code": "152338",
+            "price_range": "1000-2000",
+            "chart_size": "[{\"label\":\"S\",\"tofitbust\":\"36\",\"tofitwaist\":\"32\",\"frontlength\":\"27\",\"tofithip\":null},{\"label\":\"M\",\"tofitbust\":\"38\",\"tofitwaist\":\"34\",\"frontlength\":\"27\",\"tofithip\":null},{\"label\":\"L\",\"tofitbust\":\"40\",\"tofitwaist\":\"36\",\"frontlength\":\"27\",\"tofithip\":null},{\"label\":\"XL\",\"tofitbust\":\"42\",\"tofitwaist\":\"38\",\"frontlength\":\"27\",\"tofithip\":null},{\"label\":\"XXL\",\"tofitbust\":\"44\",\"tofitwaist\":\"40\",\"frontlength\":\"27\",\"tofithip\":null}]",
+            "specification": "[{\"label\":\"Fabric\",\"value\":\"Cotton\"},{\"label\":\"Care Instructions\",\"value\":\"Dry clean\"},{\"label\":\"Color\",\"value\":\"Green\"},{\"label\":\"Pattern\",\"value\":\"Block Print\"},{\"label\":\"Neckline\",\"value\":\"V\"},{\"label\":\"Sleeve Length\",\"value\":\"3\\/4th\"},{\"label\":\"Length\",\"value\":\"Medium\"}]",
+            "length": "12",
+            "breadth": "10",
+            "height": "2",
+            "weight": "0.2",
+            "reviews_count": 0,
+            "rating": [],
+            "translations": [],
+            "reviews": []
+        },
+        {
+            "id": 121,
+            "added_by": "admin",
+            "user_id": 1,
+            "name": "Green Floral Top",
+            "slug": "green-floral-top",
+            "category_ids": [
+                {
+                    "id": "1",
+                    "position": 1
+                },
+                {
+                    "id": "23",
+                    "position": 2
+                }
+            ],
+            "brand_id": 1,
+            "stylecode": "DLESHR10MI",
+            "unit": "pc",
+            "min_qty": 1,
+            "refundable": 1,
+            "images": [
+                "2023-05-09-645a34a05eae1.png",
+                "2023-05-09-645a34a05f3bf.png",
+                "2023-05-09-645a34a05f832.png",
+                "2023-05-09-645a34a05fced.png",
+                "2023-05-09-645a34a06013b.png",
+                "2023-05-09-645a34a0605be.png",
+                "2023-05-09-645a34a060a7a.png"
+            ],
+            "thumbnail": "2023-05-09-645a34a060fbf.png",
+            "featured": null,
+            "flash_deal": null,
+            "video_provider": "youtube",
+            "video_url": null,
+            "colors": [
+                {
+                    "name": "Green",
+                    "code": "#097a27"
+                }
+            ],
+            "variant_product": 0,
+            "attributes": [
+                2
+            ],
+            "choice_options": [
+                {
+                    "name": "choice_2",
+                    "title": "Size",
+                    "options": [
+                        "S",
+                        "                    M",
+                        "                    L",
+                        "                    XL",
+                        "                    XXL"
+                    ]
+                }
+            ],
+            "variation": [
+                {
+                    "type": "Green-S",
+                    "price": 3049,
+                    "sku": "SS23DLESHR10MIS",
+                    "qty": 14,
+                    "after_discount_price": 2988.02
+                },
+                {
+                    "type": "Green-M",
+                    "price": 3049,
+                    "sku": "SS23DLESHR10MIM",
+                    "qty": 29,
+                    "after_discount_price": 2988.02
+                },
+                {
+                    "type": "Green-L",
+                    "price": 3049,
+                    "sku": "SS23DLESHR10MIL",
+                    "qty": 29,
+                    "after_discount_price": 2988.02
+                },
+                {
+                    "type": "Green-XL",
+                    "price": 3049,
+                    "sku": "SS23DLESHR10MIXL",
+                    "qty": 29,
+                    "after_discount_price": 2988.02
+                },
+                {
+                    "type": "Green-XXL",
+                    "price": 3049,
+                    "sku": "SS23DLESHR10MIXXL",
+                    "qty": 15,
+                    "after_discount_price": 2988.02
+                }
+            ],
+            "published": 0,
+            "unit_price": 3049,
+            "purchase_price": 1,
+            "tax": 0,
+            "tax_type": "percent",
+            "discount": 70,
+            "discount_type": "percent",
+            "after_discount_price": 914.7,
+            "current_stock": 116,
+            "minimum_order_qty": 1,
+            "details": "<p><strong>Product Description</strong></p>\r\n\r\n<ul>\r\n\t<li>Elevate your wardrobe with this charming short top featuring a beautiful pink floral print on a beige base, perfect for a feminine and elegant look.</li>\r\n\t<li>This top is designed with a 3/4th sleeve length, providing the right balance of coverage and breathability for all-day comfort.</li>\r\n\t<li>The gathers and dori detailing on the front add a touch of sophistication, while the 3-button closure at the back ensures a secure fit.</li>\r\n\t<li>Crafted from soft and lightweight cotton fabric, this top is versatile enough to be dressed up or down for any occasion, making it a must-have addition to your collection.</li>\r\n</ul>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+            "free_shipping": 0,
+            "attachment": null,
+            "created_at": "2023-05-09T11:55:12.000000Z",
+            "updated_at": "2023-05-30T06:46:40.000000Z",
+            "status": 1,
+            "featured_status": 1,
+            "home_status": 1,
+            "meta_title": null,
+            "meta_description": null,
+            "meta_keyword": null,
+            "meta_robot": null,
+            "meta_image": "2023-05-17-6464b6257c042.png",
+            "request_status": 1,
+            "denied_note": null,
+            "shipping_cost": 0,
+            "multiply_qty": 0,
+            "temp_shipping_cost": null,
+            "is_shipping_cost_updated": null,
+            "code": "101441",
+            "price_range": "1000-2000",
+            "chart_size": "[{\"label\":\"S\",\"tofitbust\":\"36\",\"tofitwaist\":\"32\",\"frontlength\":\"27\",\"tofithip\":null},{\"label\":\"M\",\"tofitbust\":\"38\",\"tofitwaist\":\"34\",\"frontlength\":\"27\",\"tofithip\":null},{\"label\":\"L\",\"tofitbust\":\"40\",\"tofitwaist\":\"36\",\"frontlength\":\"27\",\"tofithip\":null},{\"label\":\"XL\",\"tofitbust\":\"42\",\"tofitwaist\":\"38\",\"frontlength\":\"27\",\"tofithip\":null},{\"label\":\"XXL\",\"tofitbust\":\"44\",\"tofitwaist\":\"40\",\"frontlength\":\"27\",\"tofithip\":null}]",
+            "specification": "[{\"label\":\"Fabric\",\"value\":\"Cotton\"},{\"label\":\"Care Instructions\",\"value\":\"Hand wash separately\"},{\"label\":\"Color\",\"value\":\"Green\"},{\"label\":\"Pattern\",\"value\":\"Indian\"},{\"label\":\"Neckline\",\"value\":\"V\"},{\"label\":\"Sleeve Length\",\"value\":\"3\\/4th\"},{\"label\":\"Length\",\"value\":\"Short\"}]",
+            "length": "12",
+            "breadth": "10",
+            "height": "2",
+            "weight": "0.2",
+            "reviews_count": 0,
+            "rating": [],
+            "translations": [],
+            "reviews": []
+        },
+        {
+            "id": 120,
+            "added_by": "admin",
+            "user_id": 1,
+            "name": "Soothing Floral Printed Top",
+            "slug": "soothing-floral-printed-top",
+            "category_ids": [
+                {
+                    "id": "1",
+                    "position": 1
+                },
+                {
+                    "id": "22",
+                    "position": 2
+                }
+            ],
+            "brand_id": 1,
+            "stylecode": "DLESHP20GR",
+            "unit": "pc",
+            "min_qty": 1,
+            "refundable": 1,
+            "images": [
+                "2023-05-09-645a2fe8d47b9.png",
+                "2023-05-11-645c89d7c0c0c.png",
+                "2023-05-11-645c89d7c1348.png",
+                "2023-05-11-645c89d7c1679.png",
+                "2023-05-11-645c89d7c19c3.png",
+                "2023-05-11-645c89d7c1d3b.png"
+            ],
+            "thumbnail": "2023-05-09-645a2fe8d70b3.png",
+            "featured": null,
+            "flash_deal": null,
+            "video_provider": "youtube",
+            "video_url": null,
+            "colors": [
+                {
+                    "name": "Green",
+                    "code": "#097a27"
+                }
+            ],
+            "variant_product": 0,
+            "attributes": [
+                2
+            ],
+            "choice_options": [
+                {
+                    "name": "choice_2",
+                    "title": "Size",
+                    "options": [
+                        "S",
+                        "                M",
+                        "                L",
+                        "                XL",
+                        "                XXL"
+                    ]
+                }
+            ],
+            "variation": [
+                {
+                    "type": "Green-S",
+                    "price": 4199,
+                    "sku": "SS23DLESHP20GRS",
+                    "qty": 12,
+                    "after_discount_price": 4115.02
+                },
+                {
+                    "type": "Green-M",
+                    "price": 4199,
+                    "sku": "SS23DLESHP20GRM",
+                    "qty": 13,
+                    "after_discount_price": 4115.02
+                },
+                {
+                    "type": "Green-L",
+                    "price": 4199,
+                    "sku": "SS23DLESHP20GRL",
+                    "qty": 14,
+                    "after_discount_price": 4115.02
+                },
+                {
+                    "type": "Green-XL",
+                    "price": 4199,
+                    "sku": "SS23DLESHP20GRXL",
+                    "qty": 16,
+                    "after_discount_price": 4115.02
+                },
+                {
+                    "type": "Green-XXL",
+                    "price": 4199,
+                    "sku": "SS23DLESHP20GRXXL",
+                    "qty": 16,
+                    "after_discount_price": 4115.02
+                }
+            ],
+            "published": 0,
+            "unit_price": 4199,
+            "purchase_price": 1,
+            "tax": 0,
+            "tax_type": "percent",
+            "discount": 74,
+            "discount_type": "percent",
+            "after_discount_price": 1091.74,
+            "current_stock": 71,
+            "minimum_order_qty": 1,
+            "details": "<p><strong>Product Description</strong></p>\r\n\r\n<ul>\r\n\t<li>Introducing our latest sartorial masterpiece - the Mal Cotton Floral Short Top with Full-Sleeves and Gathers! Expertly crafted with premium-grade cotton, this top is a sight to behold, offering an unparalleled combination of style and comfort.</li>\r\n\t<li>The exquisite floral pattern adds a touch of elegance and refinement, while the full-sleeves with gathers lend an air of sophistication and grace.</li>\r\n\t<li>The impeccable tailoring ensures a comfortable and flattering fit, making it the perfect choice for both formal and casual occasions.</li>\r\n\t<li>Whether you&#39;re attending a high-profile business meeting or enjoying a day out with friends, this top is sure to make a statement.</li>\r\n</ul>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+            "free_shipping": 0,
+            "attachment": null,
+            "created_at": "2023-05-09T11:35:04.000000Z",
+            "updated_at": "2023-05-30T06:48:36.000000Z",
+            "status": 1,
+            "featured_status": 1,
+            "home_status": 1,
+            "meta_title": null,
+            "meta_description": null,
+            "meta_keyword": null,
+            "meta_robot": null,
+            "meta_image": "2023-05-17-6464b641cf0e4.png",
+            "request_status": 1,
+            "denied_note": null,
+            "shipping_cost": 0,
+            "multiply_qty": 0,
+            "temp_shipping_cost": null,
+            "is_shipping_cost_updated": null,
+            "code": "151900",
+            "price_range": "1000-2000",
+            "chart_size": "[{\"label\":\"S\",\"tofitbust\":\"36\",\"tofitwaist\":\"32\",\"frontlength\":\"25\",\"tofithip\":null},{\"label\":\"M\",\"tofitbust\":\"38\",\"tofitwaist\":\"34\",\"frontlength\":\"25\",\"tofithip\":null},{\"label\":\"L\",\"tofitbust\":\"40\",\"tofitwaist\":\"36\",\"frontlength\":\"25\",\"tofithip\":null},{\"label\":\"XL\",\"tofitbust\":\"42\",\"tofitwaist\":\"38\",\"frontlength\":\"25\",\"tofithip\":null},{\"label\":\"XXL\",\"tofitbust\":\"44\",\"tofitwaist\":\"40\",\"frontlength\":\"25\",\"tofithip\":null}]",
+            "specification": "[{\"label\":\"Fabric\",\"value\":\"Mal Cotton\"},{\"label\":\"Care Instructions\",\"value\":\"Dry clean\"},{\"label\":\"Color\",\"value\":\"Green\"},{\"label\":\"Pattern\",\"value\":\"Floral\"},{\"label\":\"Neckline\",\"value\":\"Round\"},{\"label\":\"Sleeve Length\",\"value\":\"Full-length\"},{\"label\":\"Length\",\"value\":\"Short\"}]",
+            "length": "12",
+            "breadth": "10",
+            "height": "2",
+            "weight": "0.2",
+            "reviews_count": 0,
+            "rating": [],
+            "translations": [],
+            "reviews": []
+        },
+        {
+            "id": 119,
+            "added_by": "admin",
+            "user_id": 1,
+            "name": "Purple Cotton Top",
+            "slug": "purple-cotton-top",
+            "category_ids": [
+                {
+                    "id": "1",
+                    "position": 1
+                },
+                {
+                    "id": "23",
+                    "position": 2
+                }
+            ],
+            "brand_id": 1,
+            "stylecode": "DLEIWG5MV",
+            "unit": "pc",
+            "min_qty": 1,
+            "refundable": 1,
+            "images": [
+                "2023-05-09-645a2a3a3303c.png",
+                "2023-05-09-645a2a3a338f7.png",
+                "2023-05-09-645a2a3a33da5.png",
+                "2023-05-09-645a2a3a343a1.png",
+                "2023-05-09-645a2a3a347e1.png",
+                "2023-05-09-645a2a3a34c1d.png"
+            ],
+            "thumbnail": "2023-05-09-645a2a3a35096.png",
+            "featured": null,
+            "flash_deal": null,
+            "video_provider": "youtube",
+            "video_url": null,
+            "colors": [
+                {
+                    "name": "Purple",
+                    "code": "#800080"
+                }
+            ],
+            "variant_product": 0,
+            "attributes": [
+                2
+            ],
+            "choice_options": [
+                {
+                    "name": "choice_2",
+                    "title": "Size",
+                    "options": [
+                        "S",
+                        "            M",
+                        "            L",
+                        "            XL",
+                        "            XXL"
+                    ]
+                }
+            ],
+            "variation": [
+                {
+                    "type": "Purple-S",
+                    "price": 1999,
+                    "sku": "SS23DLEIWG5MVS",
+                    "qty": 30,
+                    "after_discount_price": 1959.02
+                },
+                {
+                    "type": "Purple-M",
+                    "price": 1999,
+                    "sku": "SS23DLEIWG5MVM",
+                    "qty": 28,
+                    "after_discount_price": 1959.02
+                },
+                {
+                    "type": "Purple-L",
+                    "price": 1999,
+                    "sku": "SS23DLEIWG5MVL",
+                    "qty": 27,
+                    "after_discount_price": 1959.02
+                },
+                {
+                    "type": "Purple-XL",
+                    "price": 1999,
+                    "sku": "SS23DLEIWG5MVXL",
+                    "qty": 29,
+                    "after_discount_price": 1959.02
+                },
+                {
+                    "type": "Purple-XXL",
+                    "price": 1999,
+                    "sku": "SS23DLEIWG5MVXXL",
+                    "qty": 29,
+                    "after_discount_price": 1959.02
+                }
+            ],
+            "published": 0,
+            "unit_price": 1999,
+            "purchase_price": 1,
+            "tax": 0,
+            "tax_type": "percent",
+            "discount": 55,
+            "discount_type": "percent",
+            "after_discount_price": 899.55,
+            "current_stock": 143,
+            "minimum_order_qty": 1,
+            "details": "<p><strong>Product Description</strong></p>\r\n\r\n<ul>\r\n\t<li>Elevate your style with this charming short top, crafted from pure cotton for a soft and comfortable feel that&#39;s perfect for all-day wear.</li>\r\n\t<li>The centre pleats and one loop button design of this top provide a unique and stylish touch, adding subtle yet impactful detail to your outfit.</li>\r\n\t<li>With full sleeves, this top offers ample coverage and warmth, making it an excellent choice for cooler weather or air-conditioned environments.</li>\r\n\t<li>The Purple floral print adds a touch of femininity and sophistication, while the versatile color pairs well with a variety of accessories and outfits. Dress it up with a skirt or pair it with jeans for a more casual look.</li>\r\n</ul>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+            "free_shipping": 0,
+            "attachment": null,
+            "created_at": "2023-05-09T11:10:50.000000Z",
+            "updated_at": "2023-05-30T06:49:19.000000Z",
+            "status": 1,
+            "featured_status": 1,
+            "home_status": 1,
+            "meta_title": null,
+            "meta_description": null,
+            "meta_keyword": null,
+            "meta_robot": null,
+            "meta_image": "2023-05-17-6464b65a71634.png",
+            "request_status": 1,
+            "denied_note": null,
+            "shipping_cost": 0,
+            "multiply_qty": 0,
+            "temp_shipping_cost": null,
+            "is_shipping_cost_updated": null,
+            "code": "160327",
+            "price_range": "1000-2000",
+            "chart_size": "[{\"label\":\"S\",\"tofitbust\":\"36\",\"tofitwaist\":\"32\",\"frontlength\":\"25\",\"tofithip\":null},{\"label\":\"M\",\"tofitbust\":\"38\",\"tofitwaist\":\"34\",\"frontlength\":\"25\",\"tofithip\":null},{\"label\":\"L\",\"tofitbust\":\"40\",\"tofitwaist\":\"36\",\"frontlength\":\"25\",\"tofithip\":null},{\"label\":\"XL\",\"tofitbust\":\"42\",\"tofitwaist\":\"38\",\"frontlength\":\"25\",\"tofithip\":null},{\"label\":\"XXL\",\"tofitbust\":\"44\",\"tofitwaist\":\"40\",\"frontlength\":\"25\",\"tofithip\":null}]",
+            "specification": "[{\"label\":\"Fabric\",\"value\":\"Cotton\"},{\"label\":\"Care Instructions\",\"value\":\"Hand wash separately\"},{\"label\":\"Color\",\"value\":\"Purple\"},{\"label\":\"Pattern\",\"value\":\"Floral\"},{\"label\":\"Neckline\",\"value\":\"Round\"},{\"label\":\"Sleeve Length\",\"value\":\"3\\/4th\"}]",
+            "length": "12",
+            "breadth": "10",
+            "height": "2",
+            "weight": "0.2",
+            "reviews_count": 0,
+            "rating": [],
+            "translations": [],
+            "reviews": []
+        },
+        {
+            "id": 118,
+            "added_by": "admin",
+            "user_id": 1,
+            "name": "Maroon Leaf Printed Top",
+            "slug": "maroon-leaf-printed-top",
+            "category_ids": [
+                {
+                    "id": "1",
+                    "position": 1
+                },
+                {
+                    "id": "23",
+                    "position": 2
+                }
+            ],
+            "brand_id": 1,
+            "stylecode": "DLEIWG5MA",
+            "unit": "pc",
+            "min_qty": 1,
+            "refundable": 1,
+            "images": [
+                "2023-05-09-645a163e8c568.png",
+                "2023-05-09-645a163e8cd50.png",
+                "2023-05-09-645a163e8d220.png",
+                "2023-05-09-645a163e8d64d.png",
+                "2023-05-09-645a163e8da84.png",
+                "2023-05-09-645a163e8deab.png",
+                "2023-05-09-645a163e8e323.png"
+            ],
+            "thumbnail": "2023-05-09-645a163e8e810.png",
+            "featured": null,
+            "flash_deal": null,
+            "video_provider": "youtube",
+            "video_url": null,
+            "colors": [
+                {
+                    "name": "Maroon",
+                    "code": "#800000"
+                }
+            ],
+            "variant_product": 0,
+            "attributes": [
+                2
+            ],
+            "choice_options": [
+                {
+                    "name": "choice_2",
+                    "title": "Size",
+                    "options": [
+                        "S",
+                        "              M",
+                        "              L",
+                        "              XL",
+                        "              XXL"
+                    ]
+                }
+            ],
+            "variation": [
+                {
+                    "type": "Maroon-S",
+                    "price": 1999,
+                    "sku": "SS23DLEIWG5MAS",
+                    "qty": 28,
+                    "after_discount_price": 1959.02
+                },
+                {
+                    "type": "Maroon-M",
+                    "price": 1999,
+                    "sku": "SS23DLEIWG5MAM",
+                    "qty": 27,
+                    "after_discount_price": 1959.02
+                },
+                {
+                    "type": "Maroon-L",
+                    "price": 1999,
+                    "sku": "SS23DLEIWG5MAL",
+                    "qty": 29,
+                    "after_discount_price": 1959.02
+                },
+                {
+                    "type": "Maroon-XL",
+                    "price": 1999,
+                    "sku": "SS23DLEIWG5MAXL",
+                    "qty": 28,
+                    "after_discount_price": 1959.02
+                },
+                {
+                    "type": "Maroon-XXL",
+                    "price": 1999,
+                    "sku": "SS23DLEIWG5MAXXL",
+                    "qty": 28,
+                    "after_discount_price": 1959.02
+                }
+            ],
+            "published": 0,
+            "unit_price": 1999,
+            "purchase_price": 1,
+            "tax": 0,
+            "tax_type": "percent",
+            "discount": 60,
+            "discount_type": "percent",
+            "after_discount_price": 799.6,
+            "current_stock": 140,
+            "minimum_order_qty": 1,
+            "details": "<p><strong>Product Description</strong></p>\r\n\r\n<ul>\r\n\t<li>Elevate your style with this charming short top, crafted from high-quality rayon print fabric for a soft and comfortable feel that&#39;s perfect for all-day wear.</li>\r\n\t<li>The centre pleats and one loop button design of this top provide a unique and stylish touch, adding subtle yet impactful detail to your outfit.</li>\r\n\t<li>With 3/4th sleeves, this top offers a perfect balance between coverage and breathability, making it ideal for transitional weather or year-round wear.</li>\r\n\t<li>Dress it up with elegant accessories or pair it with jeans for a more casual look - this top is versatile enough for any occasion. The stunning print design adds a touch of vibrancy and playfulness, perfect for adding a pop of color to your wardrobe.</li>\r\n</ul>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+            "free_shipping": 0,
+            "attachment": null,
+            "created_at": "2023-05-09T09:45:34.000000Z",
+            "updated_at": "2023-05-30T06:49:52.000000Z",
+            "status": 1,
+            "featured_status": 1,
+            "home_status": 1,
+            "meta_title": null,
+            "meta_description": null,
+            "meta_keyword": null,
+            "meta_robot": null,
+            "meta_image": "2023-05-17-6464b6780a4ea.png",
+            "request_status": 1,
+            "denied_note": null,
+            "shipping_cost": 0,
+            "multiply_qty": 0,
+            "temp_shipping_cost": null,
+            "is_shipping_cost_updated": null,
+            "code": "162977",
+            "price_range": "1000-2000",
+            "chart_size": "[{\"label\":\"S\",\"tofitbust\":\"36\",\"tofitwaist\":\"32\",\"frontlength\":\"27\",\"tofithip\":null},{\"label\":\"M\",\"tofitbust\":\"38\",\"tofitwaist\":\"34\",\"frontlength\":\"27\",\"tofithip\":null},{\"label\":\"L\",\"tofitbust\":\"40\",\"tofitwaist\":\"36\",\"frontlength\":\"27\",\"tofithip\":null},{\"label\":\"XL\",\"tofitbust\":\"42\",\"tofitwaist\":\"38\",\"frontlength\":\"27\",\"tofithip\":null},{\"label\":\"XXL\",\"tofitbust\":\"44\",\"tofitwaist\":\"40\",\"frontlength\":\"27\",\"tofithip\":null}]",
+            "specification": "[{\"label\":\"Fabric\",\"value\":\"Rayon\"},{\"label\":\"Care Instructions\",\"value\":\"Hand wash separately\"},{\"label\":\"Color\",\"value\":\"Maroon\"},{\"label\":\"Pattern\",\"value\":\"Indian\"},{\"label\":\"Sleeve Length\",\"value\":\"3\\/4th\"},{\"label\":\"Neckline\",\"value\":\"V\"}]",
+            "length": "12",
+            "breadth": "10",
+            "height": "2",
+            "weight": "0.2",
+            "reviews_count": 0,
+            "rating": [],
+            "translations": [],
+            "reviews": []
+        },
+        {
+            "id": 117,
+            "added_by": "admin",
+            "user_id": 1,
+            "name": "Floral Purple Top",
+            "slug": "floral-purple-top",
+            "category_ids": [
+                {
+                    "id": "1",
+                    "position": 1
+                },
+                {
+                    "id": "23",
+                    "position": 2
+                }
+            ],
+            "brand_id": 1,
+            "stylecode": "DLEIWG4PU",
+            "unit": "pc",
+            "min_qty": 1,
+            "refundable": 1,
+            "images": [
+                "2023-05-09-645a12e1e40ff.png",
+                "2023-05-09-645a12e1e4820.png",
+                "2023-05-09-645a12e1e4bcd.png",
+                "2023-05-09-645a12e1e4f4e.png",
+                "2023-05-09-645a12e1e5320.png",
+                "2023-05-09-645a12e1e56cd.png",
+                "2023-05-09-645a12e1e5a89.png"
+            ],
+            "thumbnail": "2023-05-09-645a12e1e5ed2.png",
+            "featured": null,
+            "flash_deal": null,
+            "video_provider": "youtube",
+            "video_url": null,
+            "colors": [
+                {
+                    "name": "Purple",
+                    "code": "#800080"
+                }
+            ],
+            "variant_product": 0,
+            "attributes": [
+                2
+            ],
+            "choice_options": [
+                {
+                    "name": "choice_2",
+                    "title": "Size",
+                    "options": [
+                        "S",
+                        "                M",
+                        "                L",
+                        "                XL",
+                        "                XXL"
+                    ]
+                }
+            ],
+            "variation": [
+                {
+                    "type": "Purple-S",
+                    "price": 1999,
+                    "sku": "SS23DLEIWG4PUS",
+                    "qty": 30,
+                    "after_discount_price": 1959.02
+                },
+                {
+                    "type": "Purple-M",
+                    "price": 1999,
+                    "sku": "SS23DLEIWG4PUM",
+                    "qty": 30,
+                    "after_discount_price": 1959.02
+                },
+                {
+                    "type": "Purple-L",
+                    "price": 1999,
+                    "sku": "SS23DLEIWG4PUL",
+                    "qty": 28,
+                    "after_discount_price": 1959.02
+                },
+                {
+                    "type": "Purple-XL",
+                    "price": 1999,
+                    "sku": "SS23DLEIWG4PUXL",
+                    "qty": 29,
+                    "after_discount_price": 1959.02
+                },
+                {
+                    "type": "Purple-XXL",
+                    "price": 1999,
+                    "sku": "SS23DLEIWG4PUXXL",
+                    "qty": 29,
+                    "after_discount_price": 1959.02
+                }
+            ],
+            "published": 0,
+            "unit_price": 1999,
+            "purchase_price": 1,
+            "tax": 0,
+            "tax_type": "percent",
+            "discount": 60,
+            "discount_type": "percent",
+            "after_discount_price": 799.6,
+            "current_stock": 146,
+            "minimum_order_qty": 1,
+            "details": "<p><strong>Product Description</strong></p>\r\n\r\n<ul>\r\n\t<li>Elevate your style with this stunning short top, crafted from high-quality pure cotton for a soft and comfortable feel that&#39;s perfect for all-day wear.</li>\r\n\t<li>The pleats on the shoulder and 3/4th sleeve length add a unique touch of detail, while providing a comfortable and flattering fit.</li>\r\n\t<li>The beautiful floral print design of this top exudes a sense of femininity and elegance, while the versatile white color pairs well with a variety of accessories and outfits.</li>\r\n\t<li>Dress it up with a skirt or pair it with jeans for a more casual look - this top is versatile enough for any occasion.</li>\r\n</ul>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+            "free_shipping": 0,
+            "attachment": null,
+            "created_at": "2023-05-09T09:31:13.000000Z",
+            "updated_at": "2023-05-30T06:50:20.000000Z",
+            "status": 1,
+            "featured_status": 1,
+            "home_status": 1,
+            "meta_title": null,
+            "meta_description": null,
+            "meta_keyword": null,
+            "meta_robot": null,
+            "meta_image": "2023-05-17-6464b6a350198.png",
+            "request_status": 1,
+            "denied_note": null,
+            "shipping_cost": 0,
+            "multiply_qty": 0,
+            "temp_shipping_cost": null,
+            "is_shipping_cost_updated": null,
+            "code": "128421",
+            "price_range": "1000-2000",
+            "chart_size": "[{\"label\":\"S\",\"tofitbust\":\"36\",\"tofitwaist\":\"32\",\"frontlength\":\"25\",\"tofithip\":null},{\"label\":\"ML\",\"tofitbust\":\"38\",\"tofitwaist\":\"34\",\"frontlength\":\"25\",\"tofithip\":null},{\"label\":\"L\",\"tofitbust\":\"40\",\"tofitwaist\":\"36\",\"frontlength\":\"25\",\"tofithip\":null},{\"label\":\"XL\",\"tofitbust\":\"42\",\"tofitwaist\":\"38\",\"frontlength\":\"25\",\"tofithip\":null},{\"label\":\"XXL\",\"tofitbust\":\"44\",\"tofitwaist\":\"40\",\"frontlength\":\"25\",\"tofithip\":null}]",
+            "specification": "[{\"label\":\"Fabric\",\"value\":\"Cotton\"},{\"label\":\"Care Instructions\",\"value\":\"Hand wash separately\"},{\"label\":\"Color\",\"value\":\"Purple\"},{\"label\":\"Pattern\",\"value\":\"Floral\"},{\"label\":\"Sleeve Length\",\"value\":\"Full-length\"},{\"label\":\"Neckline\",\"value\":\"Collar\"}]",
+            "length": "12",
+            "breadth": "10",
+            "height": "2",
+            "weight": "0.2",
+            "reviews_count": 0,
+            "rating": [],
+            "translations": [],
+            "reviews": []
+        },
+        {
+            "id": 116,
+            "added_by": "admin",
+            "user_id": 1,
+            "name": "Black and White Abstract Print Top",
+            "slug": "black-and-white-abstract-print-top",
+            "category_ids": [
+                {
+                    "id": "1",
+                    "position": 1
+                },
+                {
+                    "id": "23",
+                    "position": 2
+                }
+            ],
+            "brand_id": 1,
+            "stylecode": "DLEIWG4BK",
+            "unit": "pc",
+            "min_qty": 1,
+            "refundable": 1,
+            "images": [
+                "2023-05-09-645a0fc6cc730.png",
+                "2023-05-09-645a0fc6cd221.png",
+                "2023-05-09-645a0fc6cd749.png",
+                "2023-05-09-645a0fc6cdbae.png",
+                "2023-05-09-645a0fc6ce0a9.png",
+                "2023-05-09-645a0fc6ce553.png",
+                "2023-05-09-645a0fc6ce933.png"
+            ],
+            "thumbnail": "2023-05-09-645a0fc6cef33.png",
+            "featured": null,
+            "flash_deal": null,
+            "video_provider": "youtube",
+            "video_url": null,
+            "colors": [
+                {
+                    "name": "Black",
+                    "code": "#000000"
+                }
+            ],
+            "variant_product": 0,
+            "attributes": [
+                2
+            ],
+            "choice_options": [
+                {
+                    "name": "choice_2",
+                    "title": "Size",
+                    "options": [
+                        "S",
+                        "            M",
+                        "            L",
+                        "            XL",
+                        "            XXL"
+                    ]
+                }
+            ],
+            "variation": [
+                {
+                    "type": "Black-S",
+                    "price": 1999,
+                    "sku": "SS23DLEIWG4BKS",
+                    "qty": 28,
+                    "after_discount_price": 1959.02
+                },
+                {
+                    "type": "Black-M",
+                    "price": 1999,
+                    "sku": "SS23DLEIWG4BKM",
+                    "qty": 30,
+                    "after_discount_price": 1959.02
+                },
+                {
+                    "type": "Black-L",
+                    "price": 1999,
+                    "sku": "SS23DLEIWG4BKL",
+                    "qty": 29,
+                    "after_discount_price": 1959.02
+                },
+                {
+                    "type": "Black-XL",
+                    "price": 1999,
+                    "sku": "SS23DLEIWG4BKXL",
+                    "qty": 30,
+                    "after_discount_price": 1959.02
+                },
+                {
+                    "type": "Black-XXL",
+                    "price": 1999,
+                    "sku": "SS23DLEIWG4BKXXL",
+                    "qty": 30,
+                    "after_discount_price": 1959.02
+                }
+            ],
+            "published": 0,
+            "unit_price": 1999,
+            "purchase_price": 1,
+            "tax": 0,
+            "tax_type": "percent",
+            "discount": 55,
+            "discount_type": "percent",
+            "after_discount_price": 899.55,
+            "current_stock": 147,
+            "minimum_order_qty": 1,
+            "details": "<p><strong>Product Description</strong></p>\r\n\r\n<ul>\r\n\t<li>Elevate your wardrobe with this stunning short top, crafted from pure cotton and featuring a beautiful black floral print that&#39;s perfect for any season.</li>\r\n\t<li>The pleats on the shoulders add a unique touch of texture and sophistication, providing a subtle yet impactful detail that sets this top apart from others.</li>\r\n\t<li>The 3/4th sleeve length provides a perfect balance between coverage and breathability, making this top ideal for transitional weather or year-round wear.</li>\r\n\t<li>With full sleeves, this top provides ample coverage and warmth, making it a versatile choice for any occasion. Dress it up with elegant accessories or pair it with jeans for a casual yet chic look.</li>\r\n</ul>\r\n<quillbot-extension-portal></quillbot-extension-portal>",
+            "free_shipping": 0,
+            "attachment": null,
+            "created_at": "2023-05-09T09:17:58.000000Z",
+            "updated_at": "2023-05-30T06:50:49.000000Z",
+            "status": 1,
+            "featured_status": 1,
+            "home_status": 1,
+            "meta_title": null,
+            "meta_description": null,
+            "meta_keyword": null,
+            "meta_robot": null,
+            "meta_image": "2023-05-17-6464b6bc80da0.png",
+            "request_status": 1,
+            "denied_note": null,
+            "shipping_cost": 0,
+            "multiply_qty": 0,
+            "temp_shipping_cost": null,
+            "is_shipping_cost_updated": null,
+            "code": "181308",
+            "price_range": "1000-2000",
+            "chart_size": "[{\"label\":\"S\",\"tofitbust\":\"36\",\"tofitwaist\":\"32\",\"frontlength\":\"25\",\"tofithip\":null},{\"label\":\"M\",\"tofitbust\":\"38\",\"tofitwaist\":\"34\",\"frontlength\":\"25\",\"tofithip\":null},{\"label\":\"L\",\"tofitbust\":\"40\",\"tofitwaist\":\"36\",\"frontlength\":\"25\",\"tofithip\":null},{\"label\":\"XL\",\"tofitbust\":\"42\",\"tofitwaist\":\"38\",\"frontlength\":\"25\",\"tofithip\":null},{\"label\":\"XXL\",\"tofitbust\":\"44\",\"tofitwaist\":\"40\",\"frontlength\":\"25\",\"tofithip\":null}]",
+            "specification": "[{\"label\":\"Fabric\",\"value\":\"Cotton\"},{\"label\":\"Care Instructions\",\"value\":\"Hand wash separately\"},{\"label\":\"Color\",\"value\":\"Black\"},{\"label\":\"Pattern\",\"value\":\"Indian\"},{\"label\":\"Sleeve Length\",\"value\":\"Full-length\"},{\"label\":\"Neckline\",\"value\":\"Collar\"}]",
+            "length": "12",
+            "breadth": "10",
+            "height": "2",
+            "weight": "0.2",
+            "reviews_count": 0,
+            "rating": [],
+            "translations": [],
+            "reviews": []
+        }
+    
+}
