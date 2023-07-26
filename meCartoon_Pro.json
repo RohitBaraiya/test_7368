@@ -2,8 +2,8 @@
   "data": [
     {
       "id": 2,
-      "template_id": 9028034,
-      "create_img": "https://storage.ws.pho.to/s2/094362EE-AA2C-11E9-A888-02C7C72969FA_m.jpg",
+      "template_id": 26695097,
+      "create_img": "https://storage.ws.pho.to/s2/02934b3d3b52333dba031f5679dd60ef5e306642_m.jpg",
       "lock": 1,
       "temp_list": [
         {
@@ -12,11 +12,7 @@
         },
         {
           "temp_id": 2,
-          "temp_name": 2275
-        },
-        {
-          "temp_id": 3,
-          "temp_name": 2345
+          "temp_name": 2341
         }
       ]
     }
