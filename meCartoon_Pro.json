@@ -2,25 +2,21 @@
   "data": [
     {
       "id": 2,
-      "template_id": 27006514,
+      "template_id": 16728225,
       "create_img": "https://storage.ws.pho.to/s2/6a3e0b6ecb489dc73a962a341fa9a206e3391101_m.jpeg",
       "lock": 1,
       "temp_list": [
         {
           "temp_id": 1,
-          "temp_name": 7088
+          "temp_name": 3735
         },
         {
           "temp_id": 2,
-          "temp_name": 4652
+          "temp_name": 3789
         }, 
         {
           "temp_id": 3,
-          "temp_name": 3792
-        },
-        {
-          "temp_id": 4,
-          "temp_name": 3724
+          "temp_name": 3038
         }
       ]
     }
