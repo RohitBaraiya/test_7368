@@ -22,61 +22,17 @@
     },
     {
       "id": 2,
-      "template_id": 16728225,
-      "create_img": "https://storage.ws.pho.to/s2/f055dc4394af2d2dfec14143fe9bffbec54fb70d_m.jpg",
+      "template_id": 23660714,
+      "create_img": "https://storage.ws.pho.to/s2/8469e0d5fba492f9efaa67789befe74bf836fd3e_m.jpg",
       "lock": 1,
       "temp_list": [
         {
           "temp_id": 1,
-          "temp_name": 3735
+          "temp_name": 6756
         },
         {
           "temp_id": 2,
-          "temp_name": 3789
-        }, 
-        {
-          "temp_id": 3,
-          "temp_name": 3038
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "template_id": 16728225,
-      "create_img": "https://storage.ws.pho.to/s2/f055dc4394af2d2dfec14143fe9bffbec54fb70d_m.jpg",
-      "lock": 1,
-      "temp_list": [
-        {
-          "temp_id": 1,
-          "temp_name": 3735
-        },
-        {
-          "temp_id": 2,
-          "temp_name": 3789
-        }, 
-        {
-          "temp_id": 3,
-          "temp_name": 3038
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "template_id": 16728225,
-      "create_img": "https://storage.ws.pho.to/s2/f055dc4394af2d2dfec14143fe9bffbec54fb70d_m.jpg",
-      "lock": 1,
-      "temp_list": [
-        {
-          "temp_id": 1,
-          "temp_name": 3735
-        },
-        {
-          "temp_id": 2,
-          "temp_name": 3789
-        }, 
-        {
-          "temp_id": 3,
-          "temp_name": 3038
+          "temp_name": 3506
         }
       ]
     }
