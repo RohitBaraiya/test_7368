@@ -27,7 +27,7 @@
       "open_ad_break": 1,
       "native_ad_count": 17,
 	  
-      "video_ads_show": "no",
+      "video_ads_show": "yes",
       "banner_ads_show": "yes",
       "full_ads_show": "yes",
       "native_ads_show": "yes",
