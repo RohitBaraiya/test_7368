@@ -22,7 +22,7 @@
       "t_admob_open_id": "ca-app-pub-3940256099942544/3419835294",
       "t_admob_video_id": "ca-app-pub-3940256099942544/5224354917",
       
-      "show_ads": "yes",
+      "show_ads": "no",
       "ads_time": 2,
       "open_ad_break": 1,
       "native_ad_count": 17,
