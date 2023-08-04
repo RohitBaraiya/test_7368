@@ -23,8 +23,8 @@
       "t_admob_video_id": "ca-app-pub-3940256099942544/5224354917",
       
       "show_ads": "no",
-      "ads_time": 2,
-      "open_ad_break": 1,
+      "ads_time": 5,
+      "open_ad_break": 5,
       "native_ad_count": 17,
 	  
       "video_ads_show": "yes",
@@ -33,10 +33,10 @@
       "native_ads_show": "yes",
 	  
       "my_ad_show": "yes",
-      "my_ad_name": "Hindi Quotes",
-      "my_ad_des": "Hindi Quotes has the largest collection of Hindi status.",
-      "my_ad_logo": "https://play-lh.googleusercontent.com/wTKPsU5_aqbl34xMnlCDsVidUyAcItkJOD9l0DZSPVpBYaQdO4qnJcSZmsHgY5o37XU=w240-h480-rw",
-      "my_ad_pkg": "com.hindi.quotes.status"
+      "my_ad_name": "Cartoon Photo Editor - meCartoon",
+      "my_ad_des": "This is an amazing new profile cartoon photo editor",
+      "my_ad_logo": "https://play-lh.googleusercontent.com/E7_y0ZSu2t51SyTKpMkQzuEW2KIfluzsTgT4wREKk89V5MkGmRSXzY_hccflBJt90A=w480-h960-rw 2x",
+      "my_ad_pkg": "com.mecartoon.cartoon.photoeditor.toonlab"
     }
   ]
 }
