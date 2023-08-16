@@ -7289,51 +7289,6 @@
         2176,
         6091
       ]
-    },
-    {
-      "id": 684,
-      "template_id": 22375437,
-      "create_img": "https://storage.ws.pho.to/s2/55d2e1e7880687b1d9a7c5858ee516306079cc9a_m.png",
-      "lock": 1,
-      "t_names": [
-        6608
-      ]
-    },
-    {
-      "id": 685,
-      "template_id": 22375435,
-      "create_img": "https://storage.ws.pho.to/s2/3b5b1991dc28824730fffeb8525d5829d2a37677_m.png",
-      "lock": 1,
-      "t_names": [
-        6608
-      ]
-    },
-    {
-      "id": 686,
-      "template_id": 22742932,
-      "create_img": "https://storage.ws.pho.to/s2/420af97f5005c2c193b292f88a6d09eacb040cda_m.png",
-      "lock": 1,
-      "t_names": [
-        6608
-      ]
-    },
-    {
-      "id": 687,
-      "template_id": 23424107,
-      "create_img": "https://storage.ws.pho.to/s2/52a14442c46b01b4c2bcc5dff68bf92c999e32d5_m.png",
-      "lock": 1,
-      "t_names": [
-        6608
-      ]
-    },
-    {
-      "id": 688,
-      "template_id": 25203326,
-      "create_img": "https://storage.ws.pho.to/s2/bfb9f144c9ff954c6816d5cf333c0d5035b91787_m.png",
-      "lock": 1,
-      "t_names": [
-        6608
-      ]
     }
   ]
 }
