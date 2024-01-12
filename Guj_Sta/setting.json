@@ -28,8 +28,9 @@
       "show_ads": "yes",
       "ads_time": 4,
       "open_ad_break": 3,
-      "native_ad_count": 15,
+      "native_ad_count": 6,
 	  
+      "list_banner_ads_show": "yes",
       "video_ads_show": "yes",
       "banner_ads_show": "yes",
       "full_ads_show": "yes",
