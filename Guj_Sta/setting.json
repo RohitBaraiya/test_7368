@@ -11,7 +11,7 @@
       "play_store_update": "no",
 
        "home_fs_img": "yes",
-       "home_fs_status": "yes",
+       "home_fs_status": "no",
 			
       "admob_banner_id": "ca-app-pub-9536092479908561/7788301855",
       "admob_full_id": "ca-app-pub-9536092479908561/2945100919",
