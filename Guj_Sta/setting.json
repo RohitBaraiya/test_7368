@@ -25,18 +25,18 @@
       "t_admob_open_id": "ca-app-pub-3940256099942544/3419835294",
       "t_admob_video_id": "ca-app-pub-3940256099942544/5224354917",
       
-      "show_ads": "yes",
+      "show_ads": "no",
       "ads_time": 4,
       "open_ad_break": 0,
       "native_ad_count": 8,
 	  
-      "list_banner_ads_show": "yes",
-      "video_ads_show": "yes",
-      "banner_ads_show": "yes",
-      "full_ads_show": "yes",
-      "native_ads_show": "yes",
+      "list_banner_ads_show": "no",
+      "video_ads_show": "no",
+      "banner_ads_show": "no",
+      "full_ads_show": "no",
+      "native_ads_show": "no",
 	  
-      "my_ad_show": "yes",
+      "my_ad_show": "no",
       "my_ad_show_count": "2",
       "my_ad_show_button_text": "નવી એપ્લિકેશન માટે ક્લિક કરો"
     }
