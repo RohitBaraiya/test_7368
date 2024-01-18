@@ -30,7 +30,7 @@
       "video_ads_show": "yes",
       "banner_ads_show": "yes",
       "full_ads_show": "yes",
-      "native_ads_show": "yes",
+      "native_ads_show": "no",
 	  
       "my_ad_show": "yes",
       "my_ad_name": "Cartoon Photo Editor - meCartoon",
