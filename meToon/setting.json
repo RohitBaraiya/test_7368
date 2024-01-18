@@ -33,10 +33,10 @@
       "native_ads_show": "no",
 	  
       "my_ad_show": "yes",
-      "my_ad_name": "Cartoon Photo Editor - meCartoon",
-      "my_ad_des": "This is an amazing new profile cartoon photo editor",
-      "my_ad_logo": "https://play-lh.googleusercontent.com/E7_y0ZSu2t51SyTKpMkQzuEW2KIfluzsTgT4wREKk89V5MkGmRSXzY_hccflBJt90A=w480-h960-rw 2x",
-      "my_ad_pkg": "com.mecartoon.cartoon.photoeditor.toonlab"
+      "my_ad_name": "Fast Video Downloader",
+      "my_ad_des": "Reels, ShareChat All Video Download in One Platform...",
+      "my_ad_logo": "https://play-lh.googleusercontent.com/ap3Rrss6EYnA1PGvCH22QESdT7TAShjuVi0n_TLDIizJYWSRJZp-mu0HDcXcUXiADW_L=w240-h480-rw",
+      "my_ad_pkg": "video.downloader.reelsvideodownloader.sharechatwatermarkremover"
     }
   ]
 }
