@@ -30,6 +30,7 @@
       "video_ads_show": "yes",
       "banner_ads_show": "yes",
       "full_ads_show": "yes",
+      "list_native_ads_show": "no",    
       "native_ads_show": "no",
 	  
       "my_ad_show": "yes",
