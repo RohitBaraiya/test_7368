@@ -17,9 +17,9 @@
       "des": "description for Photo Filter",
       "label": "hot",
       "gradient": "1",
-      "is_show": "1",
+      "is_show": "0",
       "is_video_ad": "0",
-      "layout": "2",
+      "layout": "1",
       "is_static": "0"
     },
     {
@@ -52,8 +52,8 @@
       "gradient": "1",
       "is_show": "0",
       "is_video_ad": "0",
-      "layout": "2",
-      "is_static": "0"
+      "layout": "6",
+      "is_static": "1"
     },
     {
       "id": 6,
