@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Cartoon Look",
+      "des": "description for cartoon look",
+      "label": "new",
+      "gradient": ["0xFFFE5769","0xFFFD4370","0xFFE4488A","0xFFCE5099"],
+      "is_show": "0",
+      "is_video_ad": "0",
+      "layout": "3",
+      "is_static": "0"
+    },
+    {
+      "id": 2,
+      "name": "Photo Filter",
+      "des": "description for Photo Filter",
+      "label": "hot",
+      "gradient": ["0xFFFE5769","0xFFFD4370","0xFFE4488A","0xFFCE5099"],
+      "is_show": "0",
+      "is_video_ad": "0",
+      "layout": "3",
+      "is_static": "0"
+    },
+    {
+      "id": 3,
+      "name": "Profile Photo",
+      "des": "description for Profile Photo",
+      "label": "popular",
+      "gradient": ["0xFFFE5769","0xFFFD4370","0xFFE4488A","0xFFCE5099"],
+      "is_show": "0",
+      "is_video_ad": "0",
+      "layout": "3",
+      "is_static": "0"
+    },
+    {
+      "id": 4,
+      "name": "Face Change",
+      "des": "description for Face Chang",
+      "label": "trading",
+      "gradient": ["0xFFFE5769","0xFFFD4370","0xFFE4488A","0xFFCE5099"],
+      "is_show": "0",
+      "is_video_ad": "0",
+      "layout": "3",
+      "is_static": "0"
+    },
+    {
+      "id": 5,
+      "name": "Funny Photo",
+      "des": "description for Funny Photo",
+      "label": "",
+      "gradient": ["0xFFFE5769","0xFFFD4370","0xFFE4488A","0xFFCE5099"],
+      "is_show": "0",
+      "is_video_ad": "0",
+      "layout": "3",
+      "is_static": "0"
+    },
+    {
+      "id": 6,
+      "name": "AI Filter",
+      "des": "description for AI Filter",
+      "label": "",
+      "gradient": ["0xFFFE5769","0xFFFD4370","0xFFE4488A","0xFFCE5099"],
+      "is_show": "0",
+      "is_video_ad": "0",
+      "layout": "3",
+      "is_static": "1"
+    },
+    {
+      "id": 7,
+      "name": "Photo Frame",
+      "des": "description for Photo Frame",
+      "label": "cool",
+      "gradient": ["0xFFFE5769","0xFFFD4370","0xFFE4488A","0xFFCE5099"],
+      "is_show": "0",
+      "is_video_ad": "0",
+      "layout": "3",
+      "is_static": "1"
+    }
+  ]
+}
