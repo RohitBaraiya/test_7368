@@ -42,7 +42,7 @@
       "is_show": "0",
       "is_video_ad": "0",
       "layout": "7",
-      "is_static": "1"
+      "is_static": "0"
     },
     {
       "id": 5,
@@ -76,6 +76,17 @@
       "is_video_ad": "0",
       "layout": "5",
       "is_static": "0"
+    },
+    {
+      "id": 8,
+      "name": "Toon Lab",
+      "des": "description for Photo Frame",
+      "label": "NEW",
+      "gradient": "8",
+      "is_show": "0",
+      "is_video_ad": "0",
+      "layout": "6",
+      "is_static": "1"
     }
   ]
 }
