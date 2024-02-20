@@ -22,16 +22,16 @@
       "t_admob_open_id": "ca-app-pub-3940256099942544/9257395921",
       "t_admob_video_id": "ca-app-pub-3940256099942544/5224354917",
       
-      "show_ads": "no",
+      "show_ads": "yes",
       "ads_time": 4,
       "open_ad_break": 4,
       "native_ad_count": 11,
 	  
       "video_ads_show": "yes",
-      "banner_ads_show": "yes",
-      "full_ads_show": "yes",
+      "banner_ads_show": "no",
+      "full_ads_show": "no",
       "list_native_ads_show": "no",    
-      "native_ads_show": "yes",
+      "native_ads_show": "no",
 	  
       "my_ad_show": "yes",
       "my_ad_name": "Fast Video Downloader",
