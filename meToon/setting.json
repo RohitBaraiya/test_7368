@@ -29,9 +29,9 @@
 	  
       "video_ads_show": "yes",
       "banner_ads_show": "no",
-      "full_ads_show": "no",
+      "full_ads_show": "yes",
       "list_native_ads_show": "no",    
-      "native_ads_show": "no",
+      "native_ads_show": "yes",
 	  
       "my_ad_show": "yes",
       "my_ad_name": "Fast Video Downloader",
