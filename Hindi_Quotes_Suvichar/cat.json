@@ -1,0 +1,194 @@
+{
+  "cat_list": [
+    {
+      "cat_id": "1",
+      "category_name": "रोमांटिक",
+      "category_name1": "Romantic",
+      "label": "new",
+      "gradient": "8",
+      "is_show": "0",
+      "is_video_ad": "0",
+      "is_static": "0"
+    },
+    {
+      "cat_id": "2",
+      "category_name": "मोहब्बत",
+      "category_name1": "Love",
+      "label": "new",
+      "gradient": "8",
+      "is_show": "0",
+      "is_video_ad": "0",
+      "is_static": "0"
+    },
+    {
+      "cat_id": "3",
+      "category_name": "दर्द",
+      "category_name1": "Sad",
+      "label": "new",
+      "gradient": "8",
+      "is_show": "0",
+      "is_video_ad": "0",
+      "is_static": "0"
+    },
+    {
+      "cat_id": "4",
+      "category_name": "बेवफा",
+      "category_name1": "Miss You",
+      "label": "new",
+      "gradient": "8",
+      "is_show": "0",
+      "is_video_ad": "0",
+      "is_static": "0"
+    },
+    {
+      "cat_id": "5",
+      "category_name": "ब्रेकअप",
+      "category_name1": "BreakUp",
+      "label": "new",
+      "gradient": "8",
+      "is_show": "0",
+      "is_video_ad": "0",
+      "is_static": "0"
+    },
+    {
+      "cat_id": "6",
+      "category_name": "याद",
+      "category_name1": "Alone",
+      "label": "new",
+      "gradient": "8",
+      "is_show": "0",
+      "is_video_ad": "0",
+      "is_static": "0"
+    },
+    {
+      "cat_id": "7",
+      "category_name": "दोस्ती",
+      "category_name1": "Friend Ship",
+      "label": "new",
+      "gradient": "8",
+      "is_show": "0",
+      "is_video_ad": "0",
+      "is_static": "0"
+    },
+    {
+      "cat_id": "8",
+      "category_name": "एटीटयुड",
+      "category_name1": "Attitude",
+      "label": "new",
+      "gradient": "8",
+      "is_show": "0",
+      "is_video_ad": "0",
+      "is_static": "0"
+    },
+    {
+      "cat_id": "9",
+      "category_name": "जिंदगी",
+      "category_name1": "Life",
+      "label": "new",
+      "gradient": "8",
+      "is_show": "0",
+      "is_video_ad": "0",
+      "is_static": "0"
+    },
+    {
+      "cat_id": "10",
+      "category_name": "सुविचार",
+      "category_name1": "Motivational",
+      "label": "new",
+      "gradient": "8",
+      "is_show": "0",
+      "is_video_ad": "0",
+      "is_static": "0"
+    },
+    {
+      "cat_id": "11",
+      "category_name": "जोक्स",
+      "category_name1": "Joksh",
+      "label": "new",
+      "gradient": "8",
+      "is_show": "0",
+      "is_video_ad": "0",
+      "is_static": "0"
+    },
+    {
+      "cat_id": "12",
+      "category_name": "घायल दिल",
+      "category_name1": "Broken Heart",
+      "label": "new",
+      "gradient": "8",
+      "is_show": "0",
+      "is_video_ad": "0",
+      "is_static": "0"
+    },
+    {
+      "cat_id": "13",
+      "category_name": "शिकायत",
+      "category_name1": "Complaint",
+      "label": "new",
+      "gradient": "8",
+      "is_show": "0",
+      "is_video_ad": "0",
+      "is_static": "0"
+    },
+    {
+      "cat_id": "14",
+      "category_name": "दर्द ए दिल",
+      "category_name1": "aaaa",
+      "label": "new",
+      "gradient": "8",
+      "is_show": "0",
+      "is_video_ad": "0",
+      "is_static": "0"
+    },
+    {
+      "cat_id": "15",
+      "category_name": "रिश्तें",
+      "category_name1": "Relationship",
+      "label": "new",
+      "gradient": "8",
+      "is_show": "0",
+      "is_video_ad": "0",
+      "is_static": "0"
+    },
+    {
+      "cat_id": "16",
+      "category_name": "त्योहार स्टेटस",
+      "category_name1": "Festival",
+      "label": "new",
+      "gradient": "8",
+      "is_show": "0",
+      "is_video_ad": "0",
+      "is_static": "0"
+    },
+    {
+      "cat_id": "17",
+      "category_name": "फ़िल्मी स्टेटस",
+      "category_name1": "Filmy",
+      "label": "new",
+      "gradient": "8",
+      "is_show": "0",
+      "is_video_ad": "0",
+      "is_static": "0"
+    },
+    {
+      "cat_id": "18",
+      "category_name": "शुभ रात्रि",
+      "category_name1": "Good Night",
+      "label": "new",
+      "gradient": "8",
+      "is_show": "0",
+      "is_video_ad": "0",
+      "is_static": "0"
+    },
+    {
+      "cat_id": "19",
+      "category_name": "सुप्रभात",
+      "category_name1": "Good Morning",
+      "label": "new",
+      "gradient": "8",
+      "is_show": "0",
+      "is_video_ad": "0",
+      "is_static": "0"
+    }
+  ]
+}
