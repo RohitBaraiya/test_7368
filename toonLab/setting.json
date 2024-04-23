@@ -24,16 +24,13 @@
       
       "show_ads": "yes",
       "ads_time": 4,
-      "open_ad_break": 0,
-      "native_ad_count": 0,
 	  
-
       "video_ads_show": "yes",
       "banner_ads_show": "yes",
       "full_ads_show": "yes",
       "native_ads_show": "yes",
 	  
-      "my_ad_show": "no",
+      "my_ad_show": "yes",
       "my_ad_name": "Fast Video Downloader",
       "my_ad_des": "Reels, Sharechat, Thread video Download.",
       "my_ad_logo": "https://play-lh.googleusercontent.com/ap3Rrss6EYnA1PGvCH22QESdT7TAShjuVi0n_TLDIizJYWSRJZp-mu0HDcXcUXiADW_L=w240-h480-rw",
