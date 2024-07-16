@@ -26,7 +26,7 @@
       "t_admob_video_id": "ca-app-pub-3940256099942544/5224354917",
       
       "show_ads": "yes",
-      "ads_time": 4,
+      "ads_time": 3,
       "open_ad_break": 0,
       "native_ad_count": 7,
 	  
@@ -36,7 +36,7 @@
       "full_ads_show": "yes",
       "native_ads_show": "no",
 	  
-      "my_ad_show": "yes",
+      "my_ad_show": "no",
       "my_ad_show_count": "5",
       "my_ad_show_button_text": "નવી એપ્લિકેશન માટે ક્લિક કરો"
     }
