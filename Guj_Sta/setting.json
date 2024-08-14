@@ -30,13 +30,13 @@
       "open_ad_break": 0,
       "native_ad_count": 8,
 	  
-      "list_banner_ads_show": "yes",
+      "list_banner_ads_show": "no",
       "video_ads_show": "no",
       "banner_ads_show": "no",
       "full_ads_show": "yes",
       "native_ads_show": "no",
 	  
-      "my_ad_show": "yes",
+      "my_ad_show": "no",
       "my_ad_show_count": "5",
       "my_ad_show_button_text": "નવી એપ્લિકેશન માટે ક્લિક કરો"
     }
