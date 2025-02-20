@@ -13,8 +13,8 @@
        "home_fs_img": "yes",
        "home_fs_status": "no",
 			
-      "admob_banner_id": "ca-app-pub-9536092479908561/3178184296",
-      "admob_full_id": "ca-app-pub-9536092479908561/1865102622",
+      "admob_banner_id": "",
+      "admob_full_id": "",
       "admob_native_id": "",
       "admob_open_id": "",
       "admob_video_id": "",
@@ -25,15 +25,15 @@
       "t_admob_open_id": "ca-app-pub-3940256099942544/3419835294",
       "t_admob_video_id": "ca-app-pub-3940256099942544/5224354917",
       
-      "show_ads": "yes",
-      "ads_time": 3,
+      "show_ads": "no",
+      "ads_time": 10,
       "open_ad_break": 0,
-      "native_ad_count": 8,
+      "native_ad_count": 0,
 	  
-      "list_banner_ads_show": "yes",
+      "list_banner_ads_show": "no",
       "video_ads_show": "no",
       "banner_ads_show": "no",
-      "full_ads_show": "yes",
+      "full_ads_show": "no",
       "native_ads_show": "no",
 	  
       "my_ad_show": "no",
